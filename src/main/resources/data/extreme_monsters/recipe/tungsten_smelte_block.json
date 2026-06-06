@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 50,
+  "cookingtime": 7200,
+  "ingredient": {
+    "item": "extreme_monsters:raw_tungsten_block"
+  },
+  "result": {
+    "id": "extreme_monsters:tungsten_block"
+  }
+}

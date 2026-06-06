@@ -1,0 +1,21 @@
+{
+  "type": "extreme_monsters:molecular_matter_resynthesize",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_wither_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:wither_matter",
+    "count": 4
+  }
+}

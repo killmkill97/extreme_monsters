@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:trackers_soul",
+    "extreme_monsters:hyper_zombies_soul",
+    "extreme_monsters:hyper_skeletons_soul",
+    "extreme_monsters:hyper_creepers_soul",
+    "extreme_monsters:hyper_spiders_soul",
+    "extreme_monsters:hyper_zombified_piglins_soul",
+    "extreme_monsters:hyper_wither_skeletons_soul",
+    "extreme_monsters:hyper_blazes_soul",
+    "extreme_monsters:hyper_endermans_soul",
+    "extreme_monsters:hyper_magma_cubes_soul",
+    "extreme_monsters:ultimate_soul"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "extreme_monsters:compression",
+  "ingredients": [
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst_foundation"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_block"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:matter_catalyst_shard",
+    "count": 1
+  }
+}

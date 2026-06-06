@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:duplicated_nether_star"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_wither_in_the_bottle"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 20
+  }
+}

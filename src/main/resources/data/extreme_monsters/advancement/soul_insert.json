@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:soul_insert_machine"
+    },
+    "title": {
+      "translate": "advancements.soul_insert.title"
+    },
+    "description": {
+      "translate": "advancements.soul_insert.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "soul_insert_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "extreme_monsters:automatically_kill_hyper_mob"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "extreme_monsters:custom/dragon_matter_sword",
+  "textures": {
+    "all": "extreme_monsters:block/dragonmsp",
+    "particle": "extreme_monsters:block/dragonmsp",
+    "0": "extreme_monsters:block/dragon_matter_solar_panel"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter_fuel"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:singularity"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "f": {
+      "item": "extreme_monsters:black_hole_matter_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:fictional_planet_model",
+    "count": 1
+  }
+}

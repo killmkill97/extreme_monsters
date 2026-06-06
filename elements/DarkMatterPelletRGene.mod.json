@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "dark_matter_generate",
+    "result": {
+      "value": "CUSTOM:DarkMatterFellet"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      }
+    ]
+  }
+}

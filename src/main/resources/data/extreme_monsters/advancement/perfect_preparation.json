@@ -1,0 +1,68 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:perfect_matter_foundation"
+    },
+    "title": {
+      "translate": "advancements.perfect_preparation.title"
+    },
+    "description": {
+      "translate": "advancements.perfect_preparation.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "perfect_preparation_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:quantum_infuser"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "perfect_preparation_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:energy_stabilizer"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "perfect_preparation_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:perfect_matter_foundation"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:lets_make_an_alloy"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:duplicated_nether_star"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

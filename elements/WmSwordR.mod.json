@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:DragonMatterSword"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WitherMatterSword"
+    },
+    "name": "wm_sword_r",
+    "namespace": "mod"
+  }
+}

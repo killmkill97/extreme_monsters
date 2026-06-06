@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Extreme Monsters",
+    "icon": {
+      "value": "CUSTOM:BlackHoleMatter"
+    },
+    "showSearch": false
+  }
+}

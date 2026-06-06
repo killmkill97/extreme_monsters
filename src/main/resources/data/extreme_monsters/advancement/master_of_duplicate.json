@@ -1,0 +1,170 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:duplicated_diamond"
+    },
+    "title": {
+      "translate": "advancements.master_of_duplicate.title"
+    },
+    "description": {
+      "translate": "advancements.master_of_duplicate.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "master_of_duplicate_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_black_hole_matter"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_dark_matter_pellet"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_matter_catalyst_shard"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_inferno_matter"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_iron_ingot"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_gold_ingot"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_6": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_diamond"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_7": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_dragon_egg_chunk"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "master_of_duplicate_8": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:duplicated_bedrock"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "extreme_monsters:master_of_d_loot"
+    ]
+  },
+  "parent": "extreme_monsters:duplicated_items"
+}

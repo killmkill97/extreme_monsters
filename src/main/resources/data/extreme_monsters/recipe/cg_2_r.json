@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "fgf"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_fuel"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "c": {
+      "item": "minecraft:magma_block"
+    },
+    "d": {
+      "item": "extreme_monsters:combustion_generator"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "f": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "g": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:combustion_generator_mk_2",
+    "count": 1
+  }
+}

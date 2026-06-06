@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "aca",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "c": {
+      "item": "minecraft:diamond_leggings"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_armor_leggings",
+    "count": 1
+  }
+}

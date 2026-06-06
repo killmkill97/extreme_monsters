@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation2x"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MatterCatalystFoundation3x"
+    },
+    "name": "matter_catalyst_foundation_3x_r",
+    "namespace": "mod"
+  }
+}

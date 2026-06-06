@@ -1,0 +1,6 @@
+{
+  "parent": "extreme_monsters:displaysettings/fictional_planet_display",
+  "textures": {
+    "layer0": "extreme_monsters:item/fictional_planet_model"
+  }
+}

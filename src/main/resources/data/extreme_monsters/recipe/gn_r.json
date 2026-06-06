@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 40
+  }
+}

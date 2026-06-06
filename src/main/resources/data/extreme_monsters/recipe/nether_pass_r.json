@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "extreme_monsters:tracker_spawn_detector"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:nether_pass",
+    "count": 1
+  }
+}

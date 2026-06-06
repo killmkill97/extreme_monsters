@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EndPass"
+    },
+    "name": "end_pass_r",
+    "namespace": "mod"
+  }
+}

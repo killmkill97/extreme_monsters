@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "Blocks.BEACON"
+      },
+      {
+        "value": "CUSTOM:MolecularAlloyIngot"
+      },
+      {
+        "value": "Blocks.BEACON"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MolecularMatterResynthesizer"
+    },
+    "name": "molecular_matter_resynthesizer_r",
+    "namespace": "mod"
+  }
+}

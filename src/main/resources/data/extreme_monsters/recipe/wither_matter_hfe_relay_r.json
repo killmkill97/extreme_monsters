@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "b": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_matter_relay"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_hfe_relay",
+    "count": 1
+  }
+}

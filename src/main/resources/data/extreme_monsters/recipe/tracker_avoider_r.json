@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "extreme_monsters:tracker_core"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_avoider",
+    "count": 1
+  }
+}

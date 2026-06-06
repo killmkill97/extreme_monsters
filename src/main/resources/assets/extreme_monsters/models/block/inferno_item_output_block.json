@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/inferno_item_output",
+    "particle": "extreme_monsters:block/inferno_item_output"
+  },
+  "render_type": "solid"
+}

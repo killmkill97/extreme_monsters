@@ -1,0 +1,33 @@
+{
+  "type": "extreme_monsters:molecular_assemble",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dragon_qss_stabilizer"
+    },
+    {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    {
+      "item": "extreme_monsters:dragon_matter_crystal_matrix_ingot"
+    },
+    {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    {
+      "item": "extreme_monsters:singularity"
+    },
+    {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:energy_stabilizer",
+    "count": 1
+  }
+}

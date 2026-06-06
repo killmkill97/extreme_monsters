@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackMatterIngot"
+    },
+    "name": "bmi_r",
+    "namespace": "mod"
+  }
+}

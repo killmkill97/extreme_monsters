@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " ca",
+    "d  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "d": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_stone_destroyer",
+    "count": 1
+  }
+}

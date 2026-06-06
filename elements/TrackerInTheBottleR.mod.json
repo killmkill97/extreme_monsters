@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "incubate",
+    "result": {
+      "value": "CUSTOM:TrackerInTheBottle"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock1x"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      }
+    ]
+  }
+}

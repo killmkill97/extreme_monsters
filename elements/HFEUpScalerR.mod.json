@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HFEUpScaler"
+    },
+    "name": "hfe_up_scaler_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "c": {
+      "item": "minecraft:lightning_rod"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "minecraft:redstone_block"
+    },
+    "f": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:soul_insert_machine",
+    "count": 1
+  }
+}

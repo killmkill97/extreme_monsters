@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:matter_catalyst"
+    },
+    "title": {
+      "translate": "advancements.catalyst.title"
+    },
+    "description": {
+      "translate": "advancements.catalyst.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "catalyst_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:matter_catalyst"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:items_assemble"
+}

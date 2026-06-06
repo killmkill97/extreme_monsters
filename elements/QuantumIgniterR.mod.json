@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_assemble",
+    "result": {
+      "value": "CUSTOM:QuantumIgniter"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:WitherHfeCube"
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixBlock"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:ArtificialSun"
+      },
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMatterFuel"
+      }
+    ]
+  }
+}

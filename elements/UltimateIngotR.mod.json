@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:WitherMatterIngot"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltimateIngot"
+    },
+    "name": "ultimate_ingot_r",
+    "namespace": "mod"
+  }
+}

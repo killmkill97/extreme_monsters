@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_qss_casing"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "e": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_qss_stabilizer",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_foundation"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_catalyst_foundation_1x",
+    "count": 1
+  }
+}

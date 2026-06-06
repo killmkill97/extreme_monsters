@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_fuel"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:combustion_generator_mk_4",
+    "count": 1
+  }
+}

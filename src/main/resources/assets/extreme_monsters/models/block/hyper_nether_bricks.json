@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/hyper_nether_bricks",
+    "particle": "extreme_monsters:block/hyper_nether_bricks"
+  },
+  "render_type": "solid"
+}

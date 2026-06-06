@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/energy_stabilizer_real",
+    "particle": "extreme_monsters:block/energy_stabilizer_real"
+  },
+  "render_type": "solid"
+}

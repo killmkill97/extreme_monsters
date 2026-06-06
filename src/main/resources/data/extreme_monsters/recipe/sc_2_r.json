@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "fgh"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_bone"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "e": {
+      "item": "extreme_monsters:simulation_chamber"
+    },
+    "f": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "g": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    },
+    "h": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:simulation_chamber_mk_2",
+    "count": 1
+  }
+}

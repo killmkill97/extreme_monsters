@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:hyper_gold_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.easy_mining.title"
+    },
+    "description": {
+      "translate": "advancements.easy_mining.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "easy_mining_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:hyper_gold_pickaxe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 27
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:killed_hyper_zombified_piglin"
+}

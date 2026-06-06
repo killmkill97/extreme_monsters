@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "extreme_monsters:block/inferno_mining_controller"
+    }
+  }
+}

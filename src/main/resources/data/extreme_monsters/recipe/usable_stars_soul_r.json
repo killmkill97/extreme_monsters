@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_essence_4"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:usable_stars_soul",
+    "count": 1
+  }
+}

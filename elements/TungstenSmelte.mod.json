@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 20.0,
+    "cookingTime": 800,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawTungsten"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:TungstenIngot"
+    },
+    "name": "tungsten_smelte",
+    "namespace": "mod"
+  }
+}

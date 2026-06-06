@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:mirror_of_despair",
+    "count": 1
+  }
+}

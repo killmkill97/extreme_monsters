@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "incubate",
+    "result": {
+      "value": "CUSTOM:EnderDragonInTheBottle"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_sword"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_sword",
+    "count": 1
+  }
+}

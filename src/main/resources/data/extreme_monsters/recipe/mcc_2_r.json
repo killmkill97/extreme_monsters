@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block_2x"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ingot_2"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:matter_catalyst_compressor_1"
+    },
+    "e": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "f": {
+      "item": "extreme_monsters:duplicated_bedrock"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_catalyst_compressor_2",
+    "count": 1
+  }
+}

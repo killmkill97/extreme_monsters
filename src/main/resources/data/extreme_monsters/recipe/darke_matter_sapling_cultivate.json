@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:apple_cultivate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dark_matter_sapling"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dark_matter_apple",
+    "count": 1
+  }
+}

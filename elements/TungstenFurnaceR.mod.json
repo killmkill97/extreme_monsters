@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BLAST_FURNACE"
+      },
+      {
+        "value": "Blocks.BLAST_FURNACE"
+      },
+      {
+        "value": "Blocks.BLAST_FURNACE"
+      },
+      {
+        "value": "CUSTOM:TungstenIngot"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:TungstenIngot"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:AdvancedMachineFrame"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TungstenFurnace"
+    },
+    "name": "tungsten_furnace_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "c": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_ingot",
+    "count": 1
+  }
+}

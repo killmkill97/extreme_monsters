@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "extreme_monsters:block/tamable_tracker_cube"
+    }
+  }
+}

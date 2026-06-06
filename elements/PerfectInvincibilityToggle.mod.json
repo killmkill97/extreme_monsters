@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "B",
+    "keyBindingName": "Perfect Invincibility Toggle",
+    "keyBindingCategoryKey": "extreme_monsters",
+    "onKeyPressed": {
+      "name": "PerfectInvincibilityToggling"
+    }
+  }
+}

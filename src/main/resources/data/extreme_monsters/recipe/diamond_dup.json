@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_diamond",
+    "count": 1
+  }
+}

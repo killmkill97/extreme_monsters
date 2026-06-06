@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "b": {
+      "item": "minecraft:bucket"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_fluid_input_block",
+    "count": 1
+  }
+}

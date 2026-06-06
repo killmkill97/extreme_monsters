@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:DragonMachineFrame"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonMatterRelay"
+    },
+    "name": "dragon_matter_relay_r",
+    "namespace": "mod"
+  }
+}

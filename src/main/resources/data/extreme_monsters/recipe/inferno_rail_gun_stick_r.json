@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "aca",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_rail_gun_stick",
+    "count": 4
+  }
+}

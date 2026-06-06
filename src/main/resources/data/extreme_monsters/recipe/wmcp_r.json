@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_star"
+    },
+    "b": {
+      "item": "minecraft:netherite_block"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_matter_armor_chestplate"
+    },
+    "d": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_armor_chestplate",
+    "count": 1
+  }
+}

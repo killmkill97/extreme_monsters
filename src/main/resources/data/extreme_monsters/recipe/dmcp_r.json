@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_armor_chestplate"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_armor_chestplate",
+    "count": 1
+  }
+}

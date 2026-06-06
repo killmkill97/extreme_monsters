@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_catalyst",
+    "count": 1
+  }
+}

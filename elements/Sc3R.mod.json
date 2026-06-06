@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:HyperBlazeRod"
+      },
+      {
+        "value": "CUSTOM:SimulationChamberMk2"
+      },
+      {
+        "value": "CUSTOM:HyperBlazeRod"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SimulationChamberMK3"
+    },
+    "name": "sc_3_r",
+    "namespace": "mod"
+  }
+}

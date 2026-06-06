@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_armor_chestplate"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_bone"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_armor_chestplate",
+    "count": 1
+  }
+}

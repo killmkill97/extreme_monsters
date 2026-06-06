@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterArmor.legs"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:HyperStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HyperStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonMatterArmor.legs"
+    },
+    "name": "dml_r",
+    "namespace": "mod"
+  }
+}

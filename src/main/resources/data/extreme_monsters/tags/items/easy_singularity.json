@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_matter",
+    "minecraft:diamond_block",
+    "extreme_monsters:matter_catalyst",
+    "extreme_monsters:black_matter_ingot",
+    "extreme_monsters:hyper_enssence_1",
+    "extreme_monsters:hyper_gold_ingot"
+  ]
+}

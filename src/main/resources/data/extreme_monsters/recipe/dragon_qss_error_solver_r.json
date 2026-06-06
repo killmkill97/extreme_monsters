@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_qss_casing"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_qss_error_solver",
+    "count": 1
+  }
+}

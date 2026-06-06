@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:omega_d_core"
+    },
+    "title": {
+      "translate": "advancements.infinite_power.title"
+    },
+    "description": {
+      "translate": "advancements.infinite_power.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "infinite_power_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:omega_d_core"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "infinite_power_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:omega_d_core_stabilizer"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:the_ultimate_catalyst"
+}

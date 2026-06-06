@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/duplicated_bedrock",
+    "particle": "extreme_monsters:block/duplicated_bedrock"
+  },
+  "render_type": "solid"
+}

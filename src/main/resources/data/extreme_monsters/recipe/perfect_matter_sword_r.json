@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cde",
+    "fg "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_matter_crystal_matrix_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:trackers_void"
+    },
+    "c": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "d": {
+      "item": "extreme_monsters:perfect_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:explosive_emitter"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_matter_sword"
+    },
+    "g": {
+      "item": "extreme_monsters:mob_immobilizer"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_sword",
+    "count": 1
+  }
+}

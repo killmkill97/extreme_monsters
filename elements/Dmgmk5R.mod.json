@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:DarkMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk4"
+      },
+      {
+        "value": "CUSTOM:DarkMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterGeneratorMk5"
+    },
+    "name": "dmgmk_5_r",
+    "namespace": "mod"
+  }
+}

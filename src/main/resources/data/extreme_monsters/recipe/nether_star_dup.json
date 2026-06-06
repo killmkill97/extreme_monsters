@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_nether_star",
+    "count": 1
+  }
+}

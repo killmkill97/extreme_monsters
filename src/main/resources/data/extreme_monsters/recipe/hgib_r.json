@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_gold_ingot_block",
+    "count": 1
+  }
+}

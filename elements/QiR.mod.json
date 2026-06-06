@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:DarkMatterQuantumVault"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuantumInfuser"
+    },
+    "name": "qi_r",
+    "namespace": "mod"
+  }
+}

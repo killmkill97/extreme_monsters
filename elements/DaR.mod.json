@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterApple"
+    },
+    "name": "da_r",
+    "namespace": "mod"
+  }
+}

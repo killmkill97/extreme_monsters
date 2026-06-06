@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_matter_resynthesize",
+    "result": {
+      "value": "CUSTOM:SuperchargedDarkMatter"
+    },
+    "count": 2,
+    "ingredients": [
+      {
+        "value": "CUSTOM:DarkMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoEnergyCube"
+      }
+    ]
+  }
+}

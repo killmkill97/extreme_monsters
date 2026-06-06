@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "b": {
+      "item": "extreme_monsters:artificial_sun"
+    },
+    "c": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "d": {
+      "item": "extreme_monsters:ultimate_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:omega_d_core",
+    "count": 1
+  }
+}

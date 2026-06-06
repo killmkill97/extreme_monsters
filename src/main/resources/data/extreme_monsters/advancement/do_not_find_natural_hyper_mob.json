@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:hyper_mob_designator"
+    },
+    "title": {
+      "translate": "advancements.do_not_find_natural_hyper_mob.title"
+    },
+    "description": {
+      "translate": "advancements.do_not_find_natural_hyper_mob.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "do_not_find_natural_hyper_mob_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:hyper_mob_designator"
+            ],
+            "count": {
+              "min": 1,
+              "max": 27
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:master_of_black_hole_matter"
+}

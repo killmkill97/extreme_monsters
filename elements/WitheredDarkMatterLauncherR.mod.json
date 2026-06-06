@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:WitherMatterBlock"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:ExplosiveEmitter"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:NomalArrowBarrager"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WitheredDarkMatterLauncher"
+    },
+    "name": "withered_dark_matter_launcher_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_relay"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter_crystal_matrix_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:hyper_ingot_3"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:alloy_smelter",
+    "count": 1
+  }
+}

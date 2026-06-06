@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ingot_1"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_ingot_2"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:mixed_hyper_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "duplicate",
+    "result": {
+      "value": "CUSTOM:DuplicatedLeather"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

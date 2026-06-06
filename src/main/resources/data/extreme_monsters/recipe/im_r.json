@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter",
+    "count": 1
+  }
+}

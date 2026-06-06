@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dark_matter_fellet"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_dark_matter_pellet",
+    "count": 1
+  }
+}

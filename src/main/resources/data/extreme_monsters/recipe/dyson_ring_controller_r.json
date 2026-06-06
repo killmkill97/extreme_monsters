@@ -1,0 +1,33 @@
+{
+  "type": "extreme_monsters:molecular_assemble",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:perfect_matter"
+    },
+    {
+      "item": "extreme_monsters:wither_hfe_cube"
+    },
+    {
+      "item": "extreme_monsters:planetary_regulator"
+    },
+    {
+      "item": "extreme_monsters:singularity"
+    },
+    {
+      "item": "extreme_monsters:stars_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_ingot_3"
+    },
+    {
+      "item": "extreme_monsters:hyper_nether_star"
+    },
+    {
+      "item": "extreme_monsters:ultimate_catalyst"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dyson_ring_controller",
+    "count": 1
+  }
+}

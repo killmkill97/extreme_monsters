@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:soul_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter"
+    }
+  },
+  "result": {
+    "item": "extreme_monsters:trackers_soul",
+    "nbt": "{Damage:500}",
+    "count": 1
+  }
+}

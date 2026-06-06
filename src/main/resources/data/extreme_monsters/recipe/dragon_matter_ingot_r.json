@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_gold_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_ingot",
+    "count": 1
+  }
+}

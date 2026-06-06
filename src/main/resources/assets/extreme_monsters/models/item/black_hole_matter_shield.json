@@ -1,0 +1,15 @@
+{
+  "parent": "extreme_monsters:custom/blackhole_matter_shield",
+  "textures": {
+    "0": "extreme_monsters:block/blackhole_matter_shield",
+    "particle": "extreme_monsters:item/black_hole_black"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "extreme_monsters:item/black_hole_matter_shield_0"
+    }
+  ]
+}

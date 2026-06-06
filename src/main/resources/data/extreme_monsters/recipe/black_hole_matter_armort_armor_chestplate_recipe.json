@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "b": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_armor_chestplate",
+    "count": 1
+  }
+}

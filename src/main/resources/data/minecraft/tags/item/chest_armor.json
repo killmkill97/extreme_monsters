@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_matter_armor_chestplate",
+    "extreme_monsters:dark_matter_armor_chestplate",
+    "extreme_monsters:black_hole_matter_armor_chestplate",
+    "extreme_monsters:dragon_matter_armor_chestplate",
+    "extreme_monsters:wither_matter_armor_chestplate",
+    "extreme_monsters:perfect_matter_armor_chestplate"
+  ]
+}

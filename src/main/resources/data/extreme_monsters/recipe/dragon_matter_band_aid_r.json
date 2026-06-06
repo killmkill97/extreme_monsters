@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wool"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_apple"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_band_aid",
+    "count": 1
+  }
+}

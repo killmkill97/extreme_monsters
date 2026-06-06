@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_wither_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:ultimate_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_dragon_ingot"
+    }
+  },
+  "result": {
+    "item": "extreme_monsters:ultimate_soul",
+    "nbt": "{Damage:500}",
+    "count": 1
+  }
+}

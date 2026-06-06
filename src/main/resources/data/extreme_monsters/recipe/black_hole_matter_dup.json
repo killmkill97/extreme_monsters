@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:black_hole_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_black_hole_matter",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterFuel"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FictionalPlanetModel"
+    },
+    "name": "fictional_planet_model_r",
+    "namespace": "mod"
+  }
+}

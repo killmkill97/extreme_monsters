@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:matter_catalyst_foundation_2x"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:matter_catalyst_foundation_1x",
+    "count": 9
+  }
+}

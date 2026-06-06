@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:soul_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_bone"
+    }
+  },
+  "result": {
+    "item": "extreme_monsters:hyper_skeletons_soul",
+    "nbt": "{Damage:500}",
+    "count": 1
+  }
+}

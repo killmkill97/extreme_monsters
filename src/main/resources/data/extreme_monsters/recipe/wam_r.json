@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:omega_wrench"
+    },
+    "f": {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wireless_auto_mender",
+    "count": 1
+  }
+}

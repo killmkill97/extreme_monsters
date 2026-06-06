@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_hfe_cube"
+    },
+    "b": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "c": {
+      "item": "extreme_monsters:perfect_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_hfe_cube",
+    "count": 1
+  }
+}

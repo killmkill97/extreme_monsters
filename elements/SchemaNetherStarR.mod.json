@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:MicroverseSchema"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SchemaNetherStar"
+    },
+    "name": "schema_nether_star_r",
+    "namespace": "mod"
+  }
+}

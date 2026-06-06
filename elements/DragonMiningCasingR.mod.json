@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMiningCasing"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMiningCasing"
+      },
+      {
+        "value": "CUSTOM:TungstenIngot"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:TungstenIngot"
+      },
+      {
+        "value": "CUSTOM:InfernoMiningCasing"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMiningCasing"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonMiningCasing"
+    },
+    "name": "dragon_mining_casing_r",
+    "namespace": "mod"
+  }
+}

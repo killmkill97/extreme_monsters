@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_matter_block",
+    "extreme_monsters:tracker_defender_mk_3",
+    "extreme_monsters:inferno_matter_solar_panel",
+    "extreme_monsters:inferno_matter_relay",
+    "extreme_monsters:combustion_generator_mk_3",
+    "extreme_monsters:matter_fusion_reactor_3",
+    "extreme_monsters:soul_insert_machine_mk_3",
+    "extreme_monsters:simulation_chamber_mk_3",
+    "extreme_monsters:dark_matter_generator_mk_3",
+    "extreme_monsters:force_emitter",
+    "extreme_monsters:inferno_energy_cube",
+    "extreme_monsters:inferno_matter_ingot_block",
+    "extreme_monsters:matter_catalyst_compressor_1",
+    "extreme_monsters:inferno_energy_acceptor",
+    "extreme_monsters:inferno_mining_controller",
+    "extreme_monsters:inferno_item_output_block",
+    "extreme_monsters:inferno_mining_casing",
+    "extreme_monsters:inferno_quantum_drill",
+    "extreme_monsters:inferno_fictional_planet_model_modifier",
+    "extreme_monsters:iron_generator",
+    "extreme_monsters:redstone_generator",
+    "extreme_monsters:quantum_anchor",
+    "extreme_monsters:super_smelting_block",
+    "extreme_monsters:tear_extractor_mk_1",
+    "extreme_monsters:inferno_matter_assembler",
+    "extreme_monsters:tungsten_furnace",
+    "extreme_monsters:duplicator_mk_2",
+    "extreme_monsters:tracker_incubator"
+  ]
+}

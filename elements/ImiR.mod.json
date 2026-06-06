@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "Blocks.NETHERITE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoMatterIngot"
+    },
+    "name": "imi_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RingOfFlight"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SchemaNetherStar"
+      },
+      {
+        "value": "CUSTOM:WitherMatterArmor.boots"
+      },
+      {
+        "value": "CUSTOM:SchemaNetherStar"
+      },
+      {
+        "value": "CUSTOM:HyperEssence4"
+      },
+      {
+        "value": "CUSTOM:PerfectMatterFragment"
+      },
+      {
+        "value": "CUSTOM:HyperEssence4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PerfectMatterArmor.boots"
+    },
+    "name": "pmb_r",
+    "namespace": "mod"
+  }
+}

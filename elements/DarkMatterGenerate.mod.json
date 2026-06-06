@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "jei_generate.png",
+    "width": 112,
+    "height": 24,
+    "icon": {
+      "value": "CUSTOM:DarkMatterGenerator"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:DarkMatterGenerator"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk2"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk3"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk4"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk5"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "DM Generate",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 4,
+        "y": 4,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 92,
+        "y": 4,
+        "slotid": 0
+      }
+    ]
+  }
+}

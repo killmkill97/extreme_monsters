@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperGoldIngotBlock"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngotBlock"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:SimulationChamberMK3"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:DragonMachineFrame"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonQssController"
+    },
+    "name": "dragon_qss_controller_r",
+    "namespace": "mod"
+  }
+}

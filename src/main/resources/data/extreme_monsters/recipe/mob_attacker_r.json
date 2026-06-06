@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_sword"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_zombies_soul"
+    },
+    "c": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_fellet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:mob_attacker",
+    "count": 1
+  }
+}

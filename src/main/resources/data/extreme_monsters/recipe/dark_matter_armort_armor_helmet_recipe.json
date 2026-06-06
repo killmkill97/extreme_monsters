@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    "d": {
+      "item": "extreme_monsters:black_hole_matter_armor_helmet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_armor_helmet",
+    "count": 1
+  }
+}

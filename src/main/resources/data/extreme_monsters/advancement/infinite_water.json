@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:infinite_water_amulet"
+    },
+    "title": {
+      "translate": "advancements.infinite_water.title"
+    },
+    "description": {
+      "translate": "advancements.infinite_water.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "infinite_water_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:infinite_water_amulet"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:real_dark_matter"
+}

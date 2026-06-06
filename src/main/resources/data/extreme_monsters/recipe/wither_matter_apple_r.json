@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_apple"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_apple",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:soul_insert_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_withered_bone"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_wither_skeletons_soul",
+    "count": 1
+  }
+}

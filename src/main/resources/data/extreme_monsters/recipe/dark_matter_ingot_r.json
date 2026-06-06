@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_ingot",
+    "count": 1
+  }
+}

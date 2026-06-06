@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:smelting_stick"
+    },
+    "title": {
+      "translate": "advancements.easy_smelting.title"
+    },
+    "description": {
+      "translate": "advancements.easy_smelting.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "easy_smelting_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:smelting_stick"
+            ],
+            "count": {
+              "min": 1,
+              "max": 27
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:matter_of_inferno"
+}

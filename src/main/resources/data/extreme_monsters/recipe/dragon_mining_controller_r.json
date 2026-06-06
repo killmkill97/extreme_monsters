@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_hammer"
+    },
+    "c": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_mining_controller"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_mining_controller",
+    "count": 1
+  }
+}

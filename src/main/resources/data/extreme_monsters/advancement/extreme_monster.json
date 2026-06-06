@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "extreme_monsters:textures/screens/black_hole_black.png",
+    "icon": {
+      "id": "extreme_monsters:start_extreme"
+    },
+    "title": {
+      "translate": "advancements.extreme_monster.title"
+    },
+    "description": {
+      "translate": "advancements.extreme_monster.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "extreme_monster_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:fictional_planet_model"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:fictional_planet_model",
+    "count": 1
+  }
+}

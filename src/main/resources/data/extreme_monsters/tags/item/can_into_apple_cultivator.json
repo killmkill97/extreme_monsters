@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:black_hole_matter_sapling",
+    "extreme_monsters:dark_matter_sapling",
+    "extreme_monsters:inferno_matter_sapling",
+    "minecraft:oak_sapling",
+    "extreme_monsters:golden_sapling"
+  ]
+}

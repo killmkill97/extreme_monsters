@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_energy_acceptor",
+    "extreme_monsters:inferno_item_output_block",
+    "extreme_monsters:inferno_mining_casing"
+  ]
+}

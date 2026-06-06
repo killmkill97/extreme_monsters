@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "extreme_monsters:awkward_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_relay",
+    "count": 1
+  }
+}

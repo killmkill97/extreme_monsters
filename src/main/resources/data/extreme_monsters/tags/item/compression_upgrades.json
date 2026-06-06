@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:speed_upgrade_1",
+    "extreme_monsters:speed_upgrade_2",
+    "extreme_monsters:compression_upgrade_1",
+    "extreme_monsters:compression_upgrade_2",
+    "extreme_monsters:compression_upgrade_3"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AssemblerUpgrade2"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:AssemblerUpgrade2"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:AssemblerUpgrade2"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:AssemblerUpgrade2"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AssemblerUpgrade3"
+    },
+    "name": "au_3_r",
+    "namespace": "mod"
+  }
+}

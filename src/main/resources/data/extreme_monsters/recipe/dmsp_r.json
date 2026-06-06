@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_solar_planel"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_solar_panel",
+    "count": 1
+  }
+}

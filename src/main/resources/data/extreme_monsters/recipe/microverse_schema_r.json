@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "b": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_block"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_nether_star"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:microverse_schema",
+    "count": 1
+  }
+}

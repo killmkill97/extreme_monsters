@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:hyper_ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.killed_hyper_enderman.title"
+    },
+    "description": {
+      "translate": "advancements.killed_hyper_enderman.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "killed_hyper_enderman_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:hyper_ender_pearl"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:start_of_all"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ice_maker",
+    "count": 1
+  }
+}

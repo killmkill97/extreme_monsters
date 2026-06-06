@@ -1,0 +1,33 @@
+{
+  "type": "extreme_monsters:molecular_assemble",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    {
+      "item": "extreme_monsters:wither_hfe_cube"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_block"
+    },
+    {
+      "item": "extreme_monsters:singularity"
+    },
+    {
+      "item": "extreme_monsters:artificial_sun"
+    },
+    {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    {
+      "item": "extreme_monsters:wither_matter_fuel"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:quantum_igniter",
+    "count": 1
+  }
+}

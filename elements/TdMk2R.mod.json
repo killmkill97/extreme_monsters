@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "CUSTOM:TrackerDefender"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "CUSTOM:AdvancedMachineFrame"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TrackerDefenderMk2"
+    },
+    "name": "td_mk_2_r",
+    "namespace": "mod"
+  }
+}

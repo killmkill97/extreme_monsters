@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cbd",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "minecraft:obsidian"
+    },
+    "c": {
+      "item": "extreme_monsters:infinite_water_source"
+    },
+    "d": {
+      "item": "extreme_monsters:infinite_lava_source"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:infinite_cobblestone_source",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_exp_bottle",
+    "count": 1
+  }
+}

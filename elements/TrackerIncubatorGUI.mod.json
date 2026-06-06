@@ -1,0 +1,341 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_0.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay1"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay2"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay3"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay4"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay5"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay6"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay7"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay8"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay9"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay10"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay11"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay12"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay13"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay14"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_bar_16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressADisplay15"
+          },
+          "x": 183,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dark_matter_generator",
+          "text": {
+            "fixedValue": "Tracker Incubator"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 131,
+          "y": 43,
+          "locked": true
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_proc_energy_display",
+          "text": {
+            "fixedValue": "",
+            "name": "EnergyDisplay"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 273,
+          "y": 42,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energy_display.png",
+          "use1Xscale": false,
+          "x": 269,
+          "y": 38,
+          "locked": true
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:BlackHoleMatterBlock1x"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 159,
+          "y": 73,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:upgrades"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 133,
+          "y": 57,
+          "locked": false
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 250,
+          "y": 73,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.GLASS_BOTTLE"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 201,
+          "y": 91,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

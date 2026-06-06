@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:duplicated_soul"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:soul_essence",
+    "count": 1
+  }
+}

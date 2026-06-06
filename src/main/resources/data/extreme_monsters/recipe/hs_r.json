@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_bone"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_staff",
+    "count": 1
+  }
+}

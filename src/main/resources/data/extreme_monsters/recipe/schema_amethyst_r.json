@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_block"
+    },
+    "b": {
+      "item": "extreme_monsters:microverse_schema"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:schema_amethyst",
+    "count": 1
+  }
+}

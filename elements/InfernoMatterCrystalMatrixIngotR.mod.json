@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "Items.END_CRYSTAL"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoMatterCrystalMatrixIngot"
+    },
+    "name": "inferno_matter_crystal_matrix_ingot_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_core"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:mob_immobilizer",
+    "count": 1
+  }
+}

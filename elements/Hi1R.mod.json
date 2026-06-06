@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HyperIngot1"
+    },
+    "name": "hi_1_r",
+    "namespace": "mod"
+  }
+}

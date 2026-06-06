@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_fuel"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_bomb"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_bomb",
+    "count": 1
+  }
+}

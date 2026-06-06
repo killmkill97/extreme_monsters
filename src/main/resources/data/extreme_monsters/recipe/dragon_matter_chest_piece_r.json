@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:eternal_dark_matter_apple"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:ultimate_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter_crystal_matrix_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:super_damage_protector",
+    "count": 1
+  }
+}

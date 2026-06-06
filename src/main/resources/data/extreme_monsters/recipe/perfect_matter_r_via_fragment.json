@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:perfect_matter_fragment"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter",
+    "count": 1
+  }
+}

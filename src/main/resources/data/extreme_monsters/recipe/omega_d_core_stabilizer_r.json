@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:omega_d_core_stabilizer",
+    "count": 1
+  }
+}

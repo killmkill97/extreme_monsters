@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:collapsed_iron_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:collapsed_gold_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:collapsed_copper_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:collapsed_quartz"
+    },
+    "e": {
+      "item": "extreme_monsters:ultimate_catalyst"
+    },
+    "f": {
+      "item": "extreme_monsters:collapsed_diamond"
+    },
+    "g": {
+      "item": "extreme_monsters:collapsed_coal"
+    },
+    "h": {
+      "item": "extreme_monsters:collapsed_netherite_ingot"
+    },
+    "i": {
+      "item": "extreme_monsters:collapsed_redstone"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:quasar",
+    "count": 1
+  }
+}

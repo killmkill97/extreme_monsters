@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DenseIronIngot3"
+      },
+      {
+        "value": "CUSTOM:DenseGoldIngot3"
+      },
+      {
+        "value": "CUSTOM:DenseCopperIngot3"
+      },
+      {
+        "value": "CUSTOM:DenseQuartz3"
+      },
+      {
+        "value": "CUSTOM:MolecularAlloyIngot"
+      },
+      {
+        "value": "CUSTOM:DenseDiamond3"
+      },
+      {
+        "value": "CUSTOM:DenseCoal3"
+      },
+      {
+        "value": "CUSTOM:DenseNetheriteIngot3"
+      },
+      {
+        "value": "CUSTOM:DenseRedstone3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CompressionUpgrade1"
+    },
+    "name": "compression_upgrade_1_r",
+    "namespace": "mod"
+  }
+}

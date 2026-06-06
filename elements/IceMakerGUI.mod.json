@@ -1,0 +1,169 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 250,
+          "y": 73,
+          "locked": true
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:upgrades"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 132,
+          "y": 55,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dark_matter_generator",
+          "text": {
+            "fixedValue": "Ice Maker"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 131,
+          "y": 43,
+          "locked": true
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_proc_energy_display",
+          "text": {
+            "fixedValue": "",
+            "name": "FluidDisplay"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 159,
+          "y": 70,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "water_bucket.png",
+          "use1Xscale": false,
+          "x": 164,
+          "y": 74,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energy_display.png",
+          "use1Xscale": false,
+          "x": 266,
+          "y": 40,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_proc_energy_display1",
+          "text": {
+            "fixedValue": "",
+            "name": "EnergyDisplay"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 270,
+          "y": 43,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_arrow_back.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 67,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_arrow_fill.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 67,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progress_arrow_nagertive.png",
+          "use1Xscale": false,
+          "x": 184,
+          "y": 67,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 151,
+          "y": 97,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

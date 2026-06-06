@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      },
+      {
+        "value": "Items.CLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AbyssalCountDown"
+    },
+    "name": "ac_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:black_hole_matter_block_5x"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_block_4x",
+    "count": 9
+  }
+}

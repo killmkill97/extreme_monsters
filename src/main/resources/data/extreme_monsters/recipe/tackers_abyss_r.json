@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_spawn_detector"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:trackers_abyss",
+    "count": 1
+  }
+}

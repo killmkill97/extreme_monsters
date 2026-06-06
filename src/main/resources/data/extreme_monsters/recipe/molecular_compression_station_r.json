@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:molecular_compression_station",
+    "count": 1
+  }
+}

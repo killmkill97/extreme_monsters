@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:arrow_remover"
+    },
+    "b": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "c": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_fellet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:projectile_remover",
+    "count": 1
+  }
+}

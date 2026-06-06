@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperIngot1"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:HyperIngot2"
+      },
+      {
+        "value": "CUSTOM:HyperIngot1"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:HyperIngot2"
+      },
+      {
+        "value": "CUSTOM:HyperNetherStar"
+      },
+      {
+        "value": "CUSTOM:WitherMatterBlock"
+      },
+      {
+        "value": "CUSTOM:HyperNetherStar"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HyperEssence4"
+    },
+    "name": "hyper_essence_4_r",
+    "namespace": "mod"
+  }
+}

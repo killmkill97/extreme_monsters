@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_egg"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_dragon_egg_chunk",
+    "count": 1
+  }
+}

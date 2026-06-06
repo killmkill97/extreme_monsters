@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    },
+    "d": {
+      "item": "extreme_monsters:artificial_sun"
+    },
+    "e": {
+      "item": "extreme_monsters:fictional_planet_model"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:planetary_regulator",
+    "count": 1
+  }
+}

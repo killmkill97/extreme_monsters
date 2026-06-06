@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:soul_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_spiders_soul",
+    "count": 1,
+    "components": {
+      "minecraft:damage": 500
+    }
+  }
+}

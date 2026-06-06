@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:raw_tungsten_block"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:raw_tungsten",
+    "count": 9
+  }
+}

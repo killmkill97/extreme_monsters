@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:trackers_abyss",
+    "extreme_monsters:arrow_remover",
+    "extreme_monsters:nether_pass",
+    "extreme_monsters:evasion_amulet",
+    "extreme_monsters:trackers_void",
+    "extreme_monsters:singularity",
+    "extreme_monsters:end_pass",
+    "extreme_monsters:upgraded_arrow_remover"
+  ]
+}

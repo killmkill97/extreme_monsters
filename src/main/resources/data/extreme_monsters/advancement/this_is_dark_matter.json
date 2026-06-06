@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:dark_matter_fellet"
+    },
+    "title": {
+      "translate": "advancements.this_is_dark_matter.title"
+    },
+    "description": {
+      "translate": "advancements.this_is_dark_matter.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "this_is_dark_matter_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:dark_matter_fellet"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "this_is_dark_matter_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:dark_matter_generator"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:items_assemble"
+}

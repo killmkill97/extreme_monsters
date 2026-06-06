@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Survivalists",
+    "pointOfInterest": {
+      "value": "CUSTOM:DarkMatterGenerator"
+    },
+    "actionSound": {
+      "value": "block.anvil.use"
+    },
+    "hat": "None",
+    "professionTextureFile": "survivalists.png",
+    "zombifiedProfessionTextureFile": "survivalists.png"
+  }
+}

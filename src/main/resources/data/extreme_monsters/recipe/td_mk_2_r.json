@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "adc",
+    "aec"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:flint"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "c": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "extreme_monsters:tracker_defender"
+    },
+    "e": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_defender_mk_2",
+    "count": 1
+  }
+}

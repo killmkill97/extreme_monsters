@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "Items.SHIELD"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackHoleMatterShield"
+    },
+    "name": "bhms_r",
+    "namespace": "mod"
+  }
+}

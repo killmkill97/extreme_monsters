@@ -1,0 +1,24 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Soul Without Flaws",
+    "achievementDescription": "Get soul but no damaged",
+    "achievementIcon": {
+      "value": "CUSTOM:HyperZombifiedPiglinsSoul"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 500,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:AutomaticallyKillHyperMob"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter_block"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_dragon_skin",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "b": {
+      "item": "extreme_monsters:schema_nether_star"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter_armor_chestplate"
+    },
+    "d": {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    "e": {
+      "item": "extreme_monsters:perfect_matter_fragment"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_fuel"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:molecular_dissolver",
+    "count": 1
+  }
+}

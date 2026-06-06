@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    {
+      "item": "extreme_monsters:dark_matter"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:advanced_machine_frame",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/black_hole_matter_assembler"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/black_hole_matter_assembler",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/black_hole_matter_assembler",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/black_hole_matter_assembler",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 2.0,
+    "scaling": "never",
+    "effects": "burning",
+    "normalDeathMessage": "%1$s was melted",
+    "itemDeathMessage": "%1$s was multed by %2$s using %3$s",
+    "playerDeathMessage": "%1$s melted whilst trying to escape %2$s"
+  }
+}

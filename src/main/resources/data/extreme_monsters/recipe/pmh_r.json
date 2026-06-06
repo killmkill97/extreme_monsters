@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:schema_nether_star"
+    },
+    "b": {
+      "item": "extreme_monsters:perfect_matter_fragment"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter_armor_helmet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_armor_helmet",
+    "count": 1
+  }
+}

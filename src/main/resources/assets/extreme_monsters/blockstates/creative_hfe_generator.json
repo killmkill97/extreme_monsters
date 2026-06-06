@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/creative_hfe_generator"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/creative_hfe_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/creative_hfe_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/creative_hfe_generator",
+      "y": 270
+    }
+  }
+}

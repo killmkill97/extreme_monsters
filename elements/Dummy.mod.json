@@ -1,0 +1,7 @@
+{
+  "_fv": 73,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"controls_repeat_ext\"><value name=\"TIMES\"><block type=\"get_command_parameter_number\"><field name=\"param\">count</field></block></value><statement name=\"DO\"><block type=\"entity_execute_command\"><value name=\"command\"><block type=\"text_join\"><mutation items=\"4\"></mutation><value name=\"ADD0\"><block type=\"text\"><field name=\"TEXT\">summon </field></block></value><value name=\"ADD1\"><block type=\"get_command_parameter_string\"><field name=\"param\">mob_name</field></block></value><value name=\"ADD2\"><block type=\"text\"><field name=\"TEXT\"> ~ ~ ~ </field></block></value><value name=\"ADD3\"><block type=\"get_command_parameter_message\"><field name=\"param\">nbts</field></block></value></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></statement></block></next></block><block type=\"entity_registry_name\" x=\"278\" y=\"546\"><value name=\"entity\"><block type=\"get_command_parameter_entity\"><field name=\"param\">mob_name</field></block></value></block></xml>"
+  }
+}

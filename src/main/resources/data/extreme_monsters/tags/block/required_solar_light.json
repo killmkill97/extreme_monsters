@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:matter_catalyst_maker",
+    "extreme_monsters:black_hole_matter_solar_planel",
+    "extreme_monsters:dark_matter_solar_panel",
+    "extreme_monsters:inferno_matter_solar_panel",
+    "extreme_monsters:dragon_matter_solar_panel",
+    "extreme_monsters:wither_matter_solar_panel"
+  ]
+}

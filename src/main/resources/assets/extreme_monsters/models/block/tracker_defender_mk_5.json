@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/wither_matter_block_top",
+    "up": "extreme_monsters:block/wither_matter_block_top",
+    "north": "extreme_monsters:block/tracker_defender_mk5",
+    "east": "extreme_monsters:block/wither_matter_machine_side",
+    "south": "extreme_monsters:block/wither_matter_machine_side",
+    "west": "extreme_monsters:block/wither_matter_machine_side",
+    "particle": "extreme_monsters:block/wither_matter_block_top"
+  },
+  "render_type": "solid"
+}

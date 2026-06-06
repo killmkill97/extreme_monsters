@@ -1,0 +1,31 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "alloy_smelte",
+    "result": {
+      "value": "CUSTOM:AllthematteriumIngot"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:DragonMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMatterIngotBlock"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter_hammer"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_hammer",
+    "count": 1
+  }
+}

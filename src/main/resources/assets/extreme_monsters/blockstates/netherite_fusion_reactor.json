@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/netherite_fusion_reactor"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/netherite_fusion_reactor",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/netherite_fusion_reactor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/netherite_fusion_reactor",
+      "y": 270
+    }
+  }
+}

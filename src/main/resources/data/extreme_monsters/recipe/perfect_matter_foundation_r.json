@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "b": {
+      "item": "extreme_monsters:allthematterium_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "d": {
+      "item": "extreme_monsters:quasar"
+    },
+    "e": {
+      "item": "extreme_monsters:allthehyperium_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_foundation",
+    "count": 1
+  }
+}

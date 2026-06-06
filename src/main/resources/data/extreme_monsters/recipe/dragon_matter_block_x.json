@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dragon_matter_block"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:dragon_matter",
+    "count": 4
+  }
+}

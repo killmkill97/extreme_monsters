@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatterSolarPlanel"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterSolarPlanel"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterSolarPlanel"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterSolarPlanel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ArtificialSun"
+    },
+    "name": "artificial_sun_r",
+    "namespace": "mod"
+  }
+}

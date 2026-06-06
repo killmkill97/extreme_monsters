@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:flying_tracker",
+    "extreme_monsters:tracker",
+    "wither",
+    "wither_skeleton",
+    "extreme_monsters:super_tracker",
+    "extreme_monsters:hyper_tracker",
+    "extreme_monsters:weak_flying_tracker",
+    "extreme_monsters:weak_tracker"
+  ]
+}

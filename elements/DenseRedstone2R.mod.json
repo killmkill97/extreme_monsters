@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_compress",
+    "result": {
+      "value": "CUSTOM:DenseRedstone2"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:DenseRedstone1"
+      }
+    ]
+  }
+}

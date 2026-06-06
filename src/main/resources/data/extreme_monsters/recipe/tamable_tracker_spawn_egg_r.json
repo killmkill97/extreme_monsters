@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "c": {
+      "item": "minecraft:chest"
+    },
+    "d": {
+      "item": "extreme_monsters:contained_super_tracker"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tamable_tracker_cube",
+    "count": 1
+  }
+}

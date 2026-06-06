@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bc ",
+    "db "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_sword"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_sword",
+    "count": 1
+  }
+}

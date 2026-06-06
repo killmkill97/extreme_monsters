@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SoulEssence"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SoulEssence"
+      },
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:SoulEssence"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SoulEssence"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HyperZombiesSoul"
+    },
+    "name": "blaze_soul_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ingot_1"
+    },
+    "b": {
+      "item": "extreme_monsters:perfect_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter_hammer"
+    },
+    "e": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_hammer",
+    "count": 1
+  }
+}

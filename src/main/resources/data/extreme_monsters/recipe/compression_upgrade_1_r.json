@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dense_iron_ingot_3"
+    },
+    "b": {
+      "item": "extreme_monsters:dense_gold_ingot_3"
+    },
+    "c": {
+      "item": "extreme_monsters:dense_copper_ingot_3"
+    },
+    "d": {
+      "item": "extreme_monsters:dense_quartz_3"
+    },
+    "e": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:dense_diamond_3"
+    },
+    "g": {
+      "item": "extreme_monsters:dense_coal_3"
+    },
+    "h": {
+      "item": "extreme_monsters:dense_netherite_ingot_3"
+    },
+    "i": {
+      "item": "extreme_monsters:dense_redstone_3"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:compression_upgrade_1",
+    "count": 1
+  }
+}

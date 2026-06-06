@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_avoider"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:tracker_defender_mk_4"
+    },
+    "e": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "f": {
+      "item": "extreme_monsters:nether_star_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_defender_mk_5",
+    "count": 1
+  }
+}

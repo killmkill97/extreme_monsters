@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_matter_resynthesize",
+    "result": {
+      "value": "CUSTOM:SuperMagma"
+    },
+    "count": 12,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperMagmaCream"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      }
+    ]
+  }
+}

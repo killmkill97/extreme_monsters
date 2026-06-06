@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Quasar",
+    "icon": {
+      "value": "CUSTOM:Quasar"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "extreme_monsters:alloy_smelte",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:inferno_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:singularity"
+    },
+    {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:tracker_core"
+    },
+    {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    {
+      "item": "minecraft:netherite_block"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:molecular_alloy_ingot",
+    "count": 1
+  }
+}

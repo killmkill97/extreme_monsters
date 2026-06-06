@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatterFuel"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterFuel"
+      },
+      {
+        "value": "Blocks.MAGMA"
+      },
+      {
+        "value": "CUSTOM:CombustionGenerator"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      },
+      {
+        "value": "CUSTOM:AdvancedMachineFrame"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CombustionGeneratorMk2"
+    },
+    "name": "cg_2_r",
+    "namespace": "mod"
+  }
+}

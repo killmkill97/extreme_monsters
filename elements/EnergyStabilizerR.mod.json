@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_assemble",
+    "result": {
+      "value": "CUSTOM:EnergyStabilizer"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:DragonQssStabilizer"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:DragonMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixIngot"
+      }
+    ]
+  }
+}

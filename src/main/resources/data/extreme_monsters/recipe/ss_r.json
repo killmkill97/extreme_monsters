@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:smelting_stick",
+    "count": 1
+  }
+}

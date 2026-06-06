@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "Items.NETHERITE_PICKAXE"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterBlock"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoMiningController"
+    },
+    "name": "inferno_mining_controller_r",
+    "namespace": "mod"
+  }
+}

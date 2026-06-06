@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "d": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    },
+    "e": {
+      "item": "minecraft:beacon"
+    },
+    "f": {
+      "item": "extreme_monsters:inferno_matter_assembler"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:molecular_assembler",
+    "count": 1
+  }
+}

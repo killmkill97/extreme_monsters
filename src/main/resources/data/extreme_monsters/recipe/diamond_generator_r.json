@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_block"
+    },
+    "b": {
+      "item": "extreme_monsters:clever_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:diamond_generator",
+    "count": 1
+  }
+}

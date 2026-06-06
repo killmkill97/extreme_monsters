@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_qss_casing"
+    },
+    "d": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_qss_qubit_memory",
+    "count": 1
+  }
+}

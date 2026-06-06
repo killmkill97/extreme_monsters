@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    "title": {
+      "translate": "advancements.master_of_black_hole_matter.title"
+    },
+    "description": {
+      "translate": "advancements.master_of_black_hole_matter.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "master_of_black_hole_matter_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:black_hole_matter_block_3x"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:no_hand_but_can_get_their_loots"
+}

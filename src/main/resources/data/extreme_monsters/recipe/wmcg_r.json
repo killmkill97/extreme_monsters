@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "f": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:combustion_generator_mk_5",
+    "count": 1
+  }
+}

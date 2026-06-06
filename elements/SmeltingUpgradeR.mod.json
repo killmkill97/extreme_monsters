@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:SmeltingStick"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmeltingUpgrade"
+    },
+    "name": "smelting_upgrade_r",
+    "namespace": "mod"
+  }
+}

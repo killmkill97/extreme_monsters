@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:simulation_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_blazes_soul"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_blaze_rod",
+    "count": 1
+  }
+}

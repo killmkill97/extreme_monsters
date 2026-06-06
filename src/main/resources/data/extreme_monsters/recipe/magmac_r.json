@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_magma_cream"
+    }
+  ],
+  "result": {
+    "id": "minecraft:magma_cream",
+    "count": 40
+  }
+}

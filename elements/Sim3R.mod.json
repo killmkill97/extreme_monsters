@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:SoulInsertMachineMk2"
+      },
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SoulInsertMachineMk3"
+    },
+    "name": "sim_3_r",
+    "namespace": "mod"
+  }
+}

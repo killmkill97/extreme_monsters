@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperIngot1"
+      },
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:HyperIngot1"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:WitherMatterHammer"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PerfectMatterHammer"
+    },
+    "name": "perfect_matter_hammer_r",
+    "namespace": "mod"
+  }
+}

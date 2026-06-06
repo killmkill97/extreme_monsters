@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "extreme_monsters:hyper_meteor",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 30,
+    "salt": 1666603703
+  }
+}

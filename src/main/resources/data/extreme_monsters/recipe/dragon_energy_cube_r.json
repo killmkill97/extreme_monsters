@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "minecraft:hopper"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_energy_cube",
+    "count": 1
+  }
+}

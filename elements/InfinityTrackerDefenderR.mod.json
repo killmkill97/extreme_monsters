@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TrackersVoid"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:TrackersVoid"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:TrackersVoid"
+      },
+      {
+        "value": "CUSTOM:TrackerDefenderMk5"
+      },
+      {
+        "value": "CUSTOM:TrackersVoid"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfinityTrackerDefender"
+    },
+    "name": "infinity_tracker_defender_r",
+    "namespace": "mod"
+  }
+}

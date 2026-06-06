@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:InfernoEnergyAcceptor"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:DragonMatterRelay"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonEnergyAcceptor"
+    },
+    "name": "dragon_energy_acceptor_r",
+    "namespace": "mod"
+  }
+}

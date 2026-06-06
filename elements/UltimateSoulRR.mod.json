@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperDragonIngot"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperWitherIngot"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltimateSoul"
+    },
+    "name": "ultimate_soul_rr",
+    "namespace": "mod"
+  }
+}

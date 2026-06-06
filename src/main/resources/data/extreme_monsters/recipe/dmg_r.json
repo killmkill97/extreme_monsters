@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_zombies_soul"
+    },
+    "c": {
+      "item": "minecraft:piston"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:black_matter_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:trackers_soul"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_generator",
+    "count": 1
+  }
+}

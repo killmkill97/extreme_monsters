@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:trackers_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_zombies_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_skeletons_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_creepers_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_spiders_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_zombified_piglins_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_wither_skeletons_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_blazes_soul"
+    },
+    {
+      "item": "extreme_monsters:hyper_endermans_soul"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:stars_soul",
+    "count": 1
+  }
+}

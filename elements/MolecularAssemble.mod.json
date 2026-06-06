@@ -1,0 +1,75 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "molecular_assemble_jei.png",
+    "width": 154,
+    "height": 62,
+    "icon": {
+      "value": "CUSTOM:MolecularAssembler"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:MolecularAssembler"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "Molecular Assemble",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 5,
+        "y": 5,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 23,
+        "y": 5,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 41,
+        "y": 5,
+        "slotid": 2
+      },
+      {
+        "type": "INPUT",
+        "x": 5,
+        "y": 23,
+        "slotid": 3
+      },
+      {
+        "type": "INPUT",
+        "x": 41,
+        "y": 23,
+        "slotid": 4
+      },
+      {
+        "type": "INPUT",
+        "x": 5,
+        "y": 41,
+        "slotid": 5
+      },
+      {
+        "type": "INPUT",
+        "x": 23,
+        "y": 41,
+        "slotid": 6
+      },
+      {
+        "type": "INPUT",
+        "x": 41,
+        "y": 41,
+        "slotid": 7
+      },
+      {
+        "type": "OUTPUT",
+        "x": 131,
+        "y": 23,
+        "slotid": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "extreme_monsters:molecular_assemble",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:wither_matter_solar_panel"
+    },
+    {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    {
+      "item": "extreme_monsters:wither_matter_crystal_matrix_ingot"
+    },
+    {
+      "item": "extreme_monsters:wither_matter_hfe_relay"
+    },
+    {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    {
+      "item": "extreme_monsters:singularity"
+    },
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_block"
+    },
+    {
+      "item": "extreme_monsters:super_matter_catalyst"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dyson_ring_solar_panel",
+    "count": 1
+  }
+}

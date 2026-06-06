@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_dragon_skin"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_essence_3",
+    "count": 1
+  }
+}

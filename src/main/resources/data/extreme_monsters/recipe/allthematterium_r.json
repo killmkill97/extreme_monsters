@@ -1,0 +1,27 @@
+{
+  "type": "extreme_monsters:alloy_smelte",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_block"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_ingot_block"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot_block"
+    },
+    {
+      "item": "extreme_monsters:inferno_matter_ingot_block"
+    },
+    {
+      "item": "extreme_monsters:dragon_matter_ingot_block"
+    },
+    {
+      "item": "extreme_monsters:wither_matter_ingot_block"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:allthematterium_ingot",
+    "count": 1
+  }
+}

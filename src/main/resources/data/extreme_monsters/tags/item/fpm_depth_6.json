@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:raw_iron",
+    "minecraft:raw_gold",
+    "minecraft:lapis_lazuli",
+    "minecraft:redstone",
+    "minecraft:amethyst_shard",
+    "minecraft:granite"
+  ]
+}

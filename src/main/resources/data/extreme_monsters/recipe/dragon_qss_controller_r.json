@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gold_ingot_block"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:simulation_chamber_mk_3"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_qss_controller",
+    "count": 1
+  }
+}

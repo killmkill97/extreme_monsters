@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BasicMachineFrame"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MatterFusionReactor1"
+    },
+    "name": "matter_fusion_reactor_r",
+    "namespace": "mod"
+  }
+}

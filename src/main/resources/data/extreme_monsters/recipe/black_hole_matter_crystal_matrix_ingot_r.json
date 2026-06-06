@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "d": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_crystal_matrix_ingot",
+    "count": 1
+  }
+}

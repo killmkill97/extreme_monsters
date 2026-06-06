@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/matter_fusion_reactor_2"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/matter_fusion_reactor_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/matter_fusion_reactor_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/matter_fusion_reactor_2",
+      "y": 270
+    }
+  }
+}

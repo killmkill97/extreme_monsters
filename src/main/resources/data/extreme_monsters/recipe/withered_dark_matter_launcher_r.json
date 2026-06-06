@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    "ec "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "c": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:explosive_emitter"
+    },
+    "e": {
+      "item": "extreme_monsters:nomal_arrow_barrager"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:withered_dark_matter_launcher",
+    "count": 1
+  }
+}

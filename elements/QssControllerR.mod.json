@@ -1,0 +1,656 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 182,
+    "height": 234,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 33,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:qss_soul"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 223,
+          "y": 131,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_quantum_superposition_simulation",
+          "text": {
+            "fixedValue": "Qss Controller"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 5,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_soul",
+          "text": {
+            "fixedValue": "Soul"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 117,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_multi_block_state",
+          "text": {
+            "fixedValue": "Multi Block State:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 14,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_multi_block_state_retur",
+          "text": {
+            "fixedValue": "",
+            "name": "QssMultiBlockStateReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 14,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_stabilizer",
+          "text": {
+            "fixedValue": "-Stabilizer:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 23,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_qubit_memory",
+          "text": {
+            "fixedValue": "-Qubit Memory:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 32,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_error_solver",
+          "text": {
+            "fixedValue": "-Error Solver:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 41,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_stabil_count_return",
+          "text": {
+            "fixedValue": "",
+            "name": "StabilCountReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 23,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qubitmem_count_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QubitmemCountReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 32,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_errsov_count_return",
+          "text": {
+            "fixedValue": "",
+            "name": "ErrsovCountReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 41,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_numerical_status",
+          "text": {
+            "fixedValue": "Numerical Status"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 77,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_processing_rate",
+          "text": {
+            "fixedValue": "-Pr:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_success_rate",
+          "text": {
+            "fixedValue": "-Sr:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 99,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_error_rate",
+          "text": {
+            "fixedValue": "-Er:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 117,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_restoration_error_rate",
+          "text": {
+            "fixedValue": "-Rec:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 126,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_pr_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssPrReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_sr_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssSrReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 99,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_er_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssErReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 117,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_rec_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssRecReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 126,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ept",
+          "text": {
+            "fixedValue": "-Ept:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 135,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_ept_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssEptReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 135,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "energy_display.png",
+          "use1Xscale": false,
+          "x": 214,
+          "y": 86,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_proc_matter_energy_display",
+          "text": {
+            "fixedValue": "",
+            "name": "EnergyDisplay"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 218,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dr",
+          "text": {
+            "fixedValue": "-Dr:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 108,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_dr_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssDrReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 155,
+          "y": 108,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_qss_number_state_what_is_this",
+          "image": "qss_number_state_what_is_this.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "QssNumberStateWhatIsThis"
+          },
+          "x": 277,
+          "y": 95,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_click_to_show_the_meaning_of_the",
+          "text": {
+            "fixedValue": "Click to show the meaning of the abbreviation"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 272,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_prograss_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssProgressReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 50,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_progress",
+          "text": {
+            "fixedValue": "-Progress:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 50,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_error",
+          "text": {
+            "fixedValue": "-Error:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 59,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_error_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssErrorReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 59,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_wrench",
+          "image": "wrench.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "ManualRepairQssError"
+          },
+          "x": 245,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_manual_repair",
+          "text": {
+            "fixedValue": "Manual repair"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 245,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_recovery_error",
+          "text": {
+            "fixedValue": "-Rec Error:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 128,
+          "y": 68,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_qss_rec_error_return",
+          "text": {
+            "fixedValue": "",
+            "name": "QssRecErrorReturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 205,
+          "y": 68,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:qss_soul"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 241,
+          "y": 131,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:qss_soul"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 259,
+          "y": 131,
+          "locked": false
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "TAG:mod:qss_soul"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 277,
+          "y": 131,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 9,
+      "sy": 9,
+      "ox": 12,
+      "oy": 17,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:ender_dragon_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_apple"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_ender_dragon_in_the_bottle",
+    "count": 1
+  }
+}

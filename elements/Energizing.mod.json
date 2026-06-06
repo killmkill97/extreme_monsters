@@ -1,0 +1,87 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "energizing_jei_edited.png",
+    "width": 200,
+    "height": 200,
+    "icon": {
+      "value": "CUSTOM:PerfectMatterFoundation"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:PerfectMatterFoundation"
+      },
+      {
+        "value": "CUSTOM:QuantumInfuser"
+      },
+      {
+        "value": "CUSTOM:EnergyStabilizer"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "Energizing",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 8,
+        "y": 12,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 172,
+        "y": 12,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 8,
+        "y": 172,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 172,
+        "y": 172,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 8,
+        "y": 92,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 88,
+        "y": 12,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 172,
+        "y": 92,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 88,
+        "y": 172,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 88,
+        "y": 92,
+        "slotid": 2
+      },
+      {
+        "type": "OUTPUT",
+        "x": 102,
+        "y": 112,
+        "slotid": 0
+      }
+    ]
+  }
+}

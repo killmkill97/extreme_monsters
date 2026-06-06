@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/inferno_matter_relay_top",
+    "particle": "extreme_monsters:block/inferno_matter_relay_top"
+  },
+  "render_type": "solid"
+}

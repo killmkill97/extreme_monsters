@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NomalArrowBarrager"
+      },
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:NomalArrowBarrager"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:NomalArrowBarrager"
+      },
+      {
+        "value": "CUSTOM:WitheredDarkMatterLauncher"
+      },
+      {
+        "value": "CUSTOM:NomalArrowBarrager"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PerfectDarkMatterBarrager"
+    },
+    "name": "perfect_dark_matter_barrager_r",
+    "namespace": "mod"
+  }
+}

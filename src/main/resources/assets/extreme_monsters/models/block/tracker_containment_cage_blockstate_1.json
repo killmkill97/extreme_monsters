@@ -1,0 +1,6 @@
+{
+  "parent": "extreme_monsters:custom/tracker_containment_cage_particle",
+  "textures": {
+    "particle": "extreme_monsters:block/planetary_regulator"
+  }
+}

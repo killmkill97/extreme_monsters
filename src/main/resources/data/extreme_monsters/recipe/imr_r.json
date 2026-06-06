@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    },
+    "b": {
+      "item": "extreme_monsters:clever_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_relay",
+    "count": 1
+  }
+}

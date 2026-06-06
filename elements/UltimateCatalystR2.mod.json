@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:HyperNetherStar"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock5x"
+      },
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltimateCore"
+    },
+    "name": "ultimate_catalyst_r_2",
+    "namespace": "mod"
+  }
+}

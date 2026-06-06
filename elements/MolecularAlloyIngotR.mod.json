@@ -1,0 +1,31 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "alloy_smelte",
+    "result": {
+      "value": "CUSTOM:MolecularAlloyIngot"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:InfernoMatterIngot"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "Blocks.NETHERITE_BLOCK"
+      }
+    ]
+  }
+}

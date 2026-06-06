@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:singularity"
+    },
+    "b": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "c": {
+      "item": "extreme_monsters:compression_upgrade_1"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_essence_3"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:compression_upgrade_2",
+    "count": 1
+  }
+}

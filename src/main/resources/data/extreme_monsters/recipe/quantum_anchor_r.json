@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "c": {
+      "item": "minecraft:ender_pearl"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:quantum_anchor",
+    "count": 1
+  }
+}

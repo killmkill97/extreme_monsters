@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:apple_cultivate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:golden_sapling"
+    }
+  ],
+  "output": {
+    "id": "minecraft:golden_apple",
+    "count": 1
+  }
+}

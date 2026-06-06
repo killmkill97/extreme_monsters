@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    "d": {
+      "item": "minecraft:nether_star"
+    },
+    "e": {
+      "item": "extreme_monsters:singularity"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:end_pass",
+    "count": 1
+  }
+}

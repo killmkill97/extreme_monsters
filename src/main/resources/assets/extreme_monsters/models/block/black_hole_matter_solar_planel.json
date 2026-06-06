@@ -1,0 +1,9 @@
+{
+  "parent": "extreme_monsters:custom/black_hole_matter_solar_planel",
+  "textures": {
+    "all": "extreme_monsters:block/bhmsp",
+    "particle": "extreme_monsters:block/bhmsp",
+    "0": "extreme_monsters:block/black_hole_matter_solar_panel"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TearExtractorMk1"
+    },
+    "name": "tear_extractor_mk_1_r",
+    "namespace": "mod"
+  }
+}

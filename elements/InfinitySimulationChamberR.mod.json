@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:WitherMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:Duplicator"
+      },
+      {
+        "value": "CUSTOM:WitherMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:DragonMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:SimulationChamberMK3"
+      },
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:SimulationChamberMK3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfinitySimulationChamber"
+    },
+    "name": "infinity_simulation_chamber_r",
+    "namespace": "mod"
+  }
+}

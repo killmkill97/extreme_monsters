@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_matter_resynthesize",
+    "result": {
+      "value": "CUSTOM:DragonMatter"
+    },
+    "count": 8,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperDragonSkin"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      }
+    ]
+  }
+}

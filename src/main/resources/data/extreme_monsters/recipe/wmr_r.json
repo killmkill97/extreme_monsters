@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_relay",
+    "count": 1
+  }
+}

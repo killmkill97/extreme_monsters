@@ -1,0 +1,36 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "dpct_jei.png",
+    "width": 112,
+    "height": 24,
+    "icon": {
+      "value": "CUSTOM:Duplicator"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:Duplicator"
+      },
+      {
+        "value": "CUSTOM:DuplicatorMk2"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "Duplicate",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 4,
+        "y": 4,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 92,
+        "y": 4,
+        "slotid": 1
+      }
+    ]
+  }
+}

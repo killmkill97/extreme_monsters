@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:soul_insert_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_endermans_soul",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:apple_cultivate",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_sapling"
+    }
+  ],
+  "output": {
+    "id": "minecraft:apple",
+    "count": 1
+  }
+}

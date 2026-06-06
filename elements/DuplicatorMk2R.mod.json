@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:Duplicator"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DuplicatorMk2"
+    },
+    "name": "duplicator_mk_2_r",
+    "namespace": "mod"
+  }
+}

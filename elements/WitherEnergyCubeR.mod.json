@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "CUSTOM:DarkMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      },
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedstoneBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WitherEnergyCube"
+    },
+    "name": "wither_energy_cube_r",
+    "namespace": "mod"
+  }
+}

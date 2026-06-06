@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_machine_frame",
+    "count": 1
+  }
+}

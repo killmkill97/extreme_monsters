@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:simulation_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:usable_stars_soul"
+    }
+  ],
+  "output": {
+    "tag": "extreme_monsters:qss_stars_soul_output",
+    "count": 1
+  }
+}

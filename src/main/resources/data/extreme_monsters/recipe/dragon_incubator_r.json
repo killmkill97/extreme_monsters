@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_dragon_skin"
+    },
+    "c": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_crystal_matrix_ingot"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_matter_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_incubator",
+    "count": 1
+  }
+}

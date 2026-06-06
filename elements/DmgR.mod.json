@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperZombiesSoul"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "Blocks.PISTON"
+      },
+      {
+        "value": "CUSTOM:BasicMachineFrame"
+      },
+      {
+        "value": "Blocks.PISTON"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      },
+      {
+        "value": "CUSTOM:TrackersSoul"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterGenerator"
+    },
+    "name": "dmg_r",
+    "namespace": "mod"
+  }
+}

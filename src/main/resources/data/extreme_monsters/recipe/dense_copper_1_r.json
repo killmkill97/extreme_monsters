@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:molecular_compress",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dense_copper_ingot_1",
+    "count": 1
+  }
+}

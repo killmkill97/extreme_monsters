@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:black_hole_matter_hammer",
+    "extreme_monsters:dark_matter_hammer",
+    "extreme_monsters:inferno_matter_hammer",
+    "extreme_monsters:dragon_matter_hammer",
+    "extreme_monsters:wither_matter_hammer",
+    "extreme_monsters:perfect_matter_hammer"
+  ]
+}

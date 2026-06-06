@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:eternal_dark_matter_apple"
+    },
+    "title": {
+      "translate": "advancements.eternal_apples.title"
+    },
+    "description": {
+      "translate": "advancements.eternal_apples.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eternal_apples_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:eternal_dark_matter_apple"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 60000,
+    "loot": [
+      "extreme_monsters:ealoot"
+    ]
+  },
+  "parent": "extreme_monsters:singularity_in_motion"
+}

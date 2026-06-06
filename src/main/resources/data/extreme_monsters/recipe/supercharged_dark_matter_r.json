@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_energy_cube"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    "c": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:supercharged_dark_matter",
+    "count": 1
+  }
+}

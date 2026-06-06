@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:DragonMatterIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMatterRelay"
+      },
+      {
+        "value": "CUSTOM:DragonMatterIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WitherMatterHFERelay"
+    },
+    "name": "wither_matter_hfe_relay_r",
+    "namespace": "mod"
+  }
+}

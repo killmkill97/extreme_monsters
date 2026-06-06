@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    "d": {
+      "item": "extreme_monsters:matter_catalyst_compressor_2"
+    },
+    "e": {
+      "item": "extreme_monsters:black_hole_matter_crystal_matrix_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:duplicated_bedrock"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_catalyst_compressor_3",
+    "count": 1
+  }
+}

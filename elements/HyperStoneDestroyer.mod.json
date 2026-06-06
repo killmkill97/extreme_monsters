@@ -1,0 +1,46 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "hyper_meteor_destroyer",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "§eHyper Stone Destroyer",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      },
+      {
+        "value": "CUSTOM:HyperMonsters"
+      }
+    ],
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 8.0,
+    "usageCount": 250,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:DarkMatter"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [
+      {
+        "value": "CUSTOM:HyperStone"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

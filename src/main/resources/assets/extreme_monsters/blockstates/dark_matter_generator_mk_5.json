@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/dark_matter_generator_mk_5"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/dark_matter_generator_mk_5",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/dark_matter_generator_mk_5",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/dark_matter_generator_mk_5",
+      "y": 270
+    }
+  }
+}

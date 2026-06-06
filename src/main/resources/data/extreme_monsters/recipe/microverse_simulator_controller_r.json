@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:stellar_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "c": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter_ingot_block"
+    },
+    "e": {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:microverse_simulator_controller",
+    "count": 1
+  }
+}

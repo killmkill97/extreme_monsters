@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/infinite_lava_source",
+    "particle": "extreme_monsters:block/infinite_lava_source"
+  },
+  "render_type": "solid"
+}

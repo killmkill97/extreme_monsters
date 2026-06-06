@@ -1,0 +1,81 @@
+{
+  "_fv": 73,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_shield_capacity_display",
+          "text": {
+            "fixedValue": "",
+            "name": "ShieldCapacityDisplay"
+          },
+          "color": {
+            "value": -7306,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "ShieldCapacityDiplayLogic"
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 33,
+          "y": 225,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shiled_bar_back.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ShieldCapacityDiplayLogic"
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 4,
+          "y": 223,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shiled_bar_fill.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ShieldCapacityDiplayLogic"
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 4,
+          "y": 223,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "shiled_bar_nagertive.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ShieldCapacityDiplayLogic"
+          },
+          "anchorPoint": "BOTTOM_LEFT",
+          "x": 4,
+          "y": 223,
+          "locked": false
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

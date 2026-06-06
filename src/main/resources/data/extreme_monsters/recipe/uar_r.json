@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "d": {
+      "item": "extreme_monsters:arrow_remover"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:upgraded_arrow_remover",
+    "count": 1
+  }
+}

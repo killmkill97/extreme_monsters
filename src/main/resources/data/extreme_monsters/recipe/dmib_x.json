@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dark_matter_ingot_block"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:dark_matter_ingot",
+    "count": 9
+  }
+}

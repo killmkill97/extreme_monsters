@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:perfect_matter_sword"
+    },
+    {
+      "item": "extreme_monsters:omega_d_core"
+    },
+    {
+      "item": "extreme_monsters:fictional_planet_model"
+    },
+    {
+      "item": "extreme_monsters:dragon_qss_controller"
+    },
+    {
+      "item": "extreme_monsters:ultimate_block"
+    },
+    {
+      "item": "extreme_monsters:wither_matter_ingot_block"
+    },
+    {
+      "item": "extreme_monsters:energy_stabilizer"
+    },
+    {
+      "item": "extreme_monsters:perfect_matter_block"
+    },
+    {
+      "item": "extreme_monsters:super_damage_protector"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:killmkill_97_block",
+    "count": 1
+  }
+}

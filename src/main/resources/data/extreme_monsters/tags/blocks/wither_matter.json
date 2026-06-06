@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:wither_matter_block",
+    "extreme_monsters:wither_energy_cube",
+    "extreme_monsters:wither_matter_solar_panel",
+    "extreme_monsters:wither_matter_relay",
+    "extreme_monsters:combustion_generator_mk_5",
+    "extreme_monsters:matter_fusion_reactor_5",
+    "extreme_monsters:wireless_auto_mender",
+    "extreme_monsters:tracker_defender_mk_5",
+    "extreme_monsters:alloy_smelter",
+    "extreme_monsters:wither_matter_ingot_block",
+    "extreme_monsters:quantum_infuser",
+    "extreme_monsters:energy_stabilizer",
+    "extreme_monsters:wither_incubator",
+    "extreme_monsters:apple_cultivator_mk_2",
+    "extreme_monsters:matter_catalyst_compressor_3"
+  ]
+}

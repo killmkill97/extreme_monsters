@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ingot_1"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ingot_3"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_ingot_2"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_nether_star"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_essence_4",
+    "count": 1
+  }
+}

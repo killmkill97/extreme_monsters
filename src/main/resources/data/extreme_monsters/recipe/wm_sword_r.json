@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    "ec "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "b": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "c": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter_sword"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuperMagma"
+      },
+      {
+        "value": "CUSTOM:AbyssalCountDown"
+      },
+      {
+        "value": "CUSTOM:SuperMagma"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:InfiniteWaterAmulet"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:InfiniteWaterAmulet"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VaporEmitter"
+    },
+    "name": "vapor_emitter_r",
+    "namespace": "mod"
+  }
+}

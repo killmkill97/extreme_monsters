@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter_armor_helmet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_armor_helmet",
+    "count": 1
+  }
+}

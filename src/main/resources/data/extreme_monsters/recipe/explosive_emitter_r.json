@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    "bc "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tnt"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_staff"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:explosive_emitter",
+    "count": 1
+  }
+}

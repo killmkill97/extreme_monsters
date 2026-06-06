@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/soul_insert_machine"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/soul_insert_machine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/soul_insert_machine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/soul_insert_machine",
+      "y": 270
+    }
+  }
+}

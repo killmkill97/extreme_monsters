@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:reinforced_redstone_block"
+    },
+    "b": {
+      "item": "minecraft:hopper"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_energy_cube",
+    "count": 1
+  }
+}

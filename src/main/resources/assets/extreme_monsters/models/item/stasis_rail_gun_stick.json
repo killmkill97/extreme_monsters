@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "extreme_monsters:item/stasis_rail_gun_stick"
+  }
+}

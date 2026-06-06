@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:molecular_compress",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dense_diamond_5"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:collapsed_diamond",
+    "count": 1
+  }
+}

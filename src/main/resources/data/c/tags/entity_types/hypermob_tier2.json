@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "zombified_piglin",
+    "magma_cube",
+    "wither_skeleton",
+    "blaze",
+    "enderman"
+  ]
+}

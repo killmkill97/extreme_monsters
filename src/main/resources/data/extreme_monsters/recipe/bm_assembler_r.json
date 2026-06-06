@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:awkward_machine_frame"
+    },
+    "e": {
+      "item": "minecraft:iron_block"
+    },
+    "f": {
+      "item": "minecraft:crafter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_assembler",
+    "count": 1
+  }
+}

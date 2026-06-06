@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "d  ",
+    "abe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block_1x"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "d": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_item_magnet",
+    "count": 1
+  }
+}

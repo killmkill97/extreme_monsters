@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:golden_apple"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_apple",
+    "count": 1
+  }
+}

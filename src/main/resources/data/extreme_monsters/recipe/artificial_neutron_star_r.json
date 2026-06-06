@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "c": {
+      "item": "extreme_monsters:artificial_sun"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:artificial_neutron_star",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_assemble",
+    "result": {
+      "value": "CUSTOM:DysonRingSolarPanel"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:WitherMatterSolarPanel"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:WitherMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMatterHFERelay"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixBlock"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      }
+    ]
+  }
+}

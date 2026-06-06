@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/wither_matter_ingot",
+    "up": "extreme_monsters:block/wither_matter_ingot",
+    "north": "extreme_monsters:block/dysonringsolarpanel",
+    "east": "extreme_monsters:block/dysonringsolarpanel",
+    "south": "extreme_monsters:block/dysonringsolarpanel",
+    "west": "extreme_monsters:block/dysonringsolarpanel",
+    "particle": "extreme_monsters:block/wither_matter_ingot"
+  },
+  "render_type": "solid"
+}

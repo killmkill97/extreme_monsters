@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:soul_collector",
+    "count": 1
+  }
+}

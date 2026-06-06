@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "extreme_monsters:block/omega_d_core"
+    },
+    "blockstate=1": {
+      "model": "extreme_monsters:block/omega_d_core_working_texture_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "extreme_monsters:block/omega_d_core_working_texture_blockstate_1"
+    }
+  }
+}

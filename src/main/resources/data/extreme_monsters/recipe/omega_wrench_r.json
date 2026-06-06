@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_stone_destroyer"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:omega_wrench",
+    "count": 1
+  }
+}

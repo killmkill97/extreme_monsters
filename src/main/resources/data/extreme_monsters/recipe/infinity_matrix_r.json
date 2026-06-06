@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_matter_crystal_matrix_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:duplicator"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_ingot_3"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter_crystal_matrix_ingot"
+    },
+    "e": {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    },
+    "f": {
+      "item": "extreme_monsters:perfect_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:infinity_matrix",
+    "count": 1
+  }
+}

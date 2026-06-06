@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:ultimate_core"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_matter_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ultimate_catalyst",
+    "count": 1
+  }
+}

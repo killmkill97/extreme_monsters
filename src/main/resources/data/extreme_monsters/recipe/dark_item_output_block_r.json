@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "c": {
+      "item": "minecraft:chest"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_item_output_block",
+    "count": 1
+  }
+}

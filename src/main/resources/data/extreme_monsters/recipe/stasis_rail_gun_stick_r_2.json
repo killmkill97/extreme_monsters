@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "aca",
+    "ba "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_rail_gun_stick"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_ingot_block"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:stasis_rail_gun_stick",
+    "count": 4
+  }
+}

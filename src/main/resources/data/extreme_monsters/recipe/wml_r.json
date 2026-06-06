@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "e e"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "c": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter_armor_leggings"
+    },
+    "e": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_armor_leggings",
+    "count": 1
+  }
+}

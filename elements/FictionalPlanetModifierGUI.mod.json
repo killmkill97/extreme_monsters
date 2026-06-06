@@ -1,0 +1,290 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 178,
+    "height": 173,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 4,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:FictionalPlanetModel"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 132,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fictional_model_modifier",
+          "text": {
+            "fixedValue": "Fictional Planet Model Modifier"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 40,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_stat_point",
+          "text": {
+            "fixedValue": "FP point:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 159,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_fp_stat_point_display",
+          "text": {
+            "fixedValue": "",
+            "name": "FPStatPointDisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 213,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_apply",
+          "text": "Apply",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "FPModifierApplyAction"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 132,
+          "y": 102,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_10",
+          "text": {
+            "fixedValue": "/10",
+            "name": "DepthDisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_101",
+          "text": {
+            "fixedValue": "/10",
+            "name": "DensityDisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 89,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_102",
+          "text": {
+            "fixedValue": "/10",
+            "name": "RarityDisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 107,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_plus_button",
+          "image": "plus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "DepthAdd"
+          },
+          "x": 186,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_plus_button1",
+          "image": "plus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "DensityAdd"
+          },
+          "x": 186,
+          "y": 85,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_plus_button2",
+          "image": "plus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "RarityAdd"
+          },
+          "x": 186,
+          "y": 103,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_minus_button",
+          "image": "minus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "DepthRemove"
+          },
+          "x": 204,
+          "y": 67,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_minus_button1",
+          "image": "minus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "DensityRemove"
+          },
+          "x": 204,
+          "y": 85,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_minus_button2",
+          "image": "minus_button.png",
+          "hoveredImage": "",
+          "onClick": {
+            "name": "RarityRemove"
+          },
+          "x": 204,
+          "y": 103,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_required",
+          "text": {
+            "fixedValue": "Required"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fp_pointe",
+          "text": {
+            "fixedValue": "FP Point:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 80,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_rf_ppoint_display",
+          "text": {
+            "fixedValue": "",
+            "name": "RFPpointDisplay"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 89,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 9,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

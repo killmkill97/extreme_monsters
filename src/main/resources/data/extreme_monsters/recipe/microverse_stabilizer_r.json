@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:singularity"
+    },
+    "d": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:microverse_stabilizer",
+    "count": 1
+  }
+}

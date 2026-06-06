@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:WitherMatterSolarPanel"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:MatterFusionReactor4"
+      },
+      {
+        "value": "CUSTOM:WitherMatter"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:CombustionGeneratorMk5"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MatterFusionReactor5"
+    },
+    "name": "wm_mfr_r",
+    "namespace": "mod"
+  }
+}

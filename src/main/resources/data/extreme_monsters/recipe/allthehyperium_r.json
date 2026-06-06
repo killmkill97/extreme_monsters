@@ -1,0 +1,27 @@
+{
+  "type": "extreme_monsters:alloy_smelte",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    {
+      "item": "extreme_monsters:hyper_ingot_3"
+    },
+    {
+      "item": "extreme_monsters:hyper_dragon_ingot"
+    },
+    {
+      "item": "extreme_monsters:hyper_wither_ingot"
+    },
+    {
+      "item": "extreme_monsters:hyper_ender_wither_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:stars_soul"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:allthehyperium_ingot",
+    "count": 1
+  }
+}

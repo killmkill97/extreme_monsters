@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:hyper_zombified_piglins_soul"
+    },
+    "title": {
+      "translate": "advancements.soul_without_flaws.title"
+    },
+    "description": {
+      "translate": "advancements.soul_without_flaws.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "soul_without_flaws_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "extreme_monsters:automatically_kill_hyper_mob"
+}

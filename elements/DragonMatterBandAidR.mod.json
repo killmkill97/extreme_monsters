@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterApple"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterApple"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "Blocks.WOOL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonMatterBandAid"
+    },
+    "name": "dragon_matter_band_aid_r",
+    "namespace": "mod"
+  }
+}

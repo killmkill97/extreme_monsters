@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wool"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter_block"
+    },
+    "c": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_band_aid",
+    "count": 1
+  }
+}

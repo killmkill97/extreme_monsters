@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_ingot_block"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:evasion_amulet"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_ingot_2"
+    },
+    "f": {
+      "item": "extreme_monsters:wither_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ascended_evasion_amulet",
+    "count": 1
+  }
+}

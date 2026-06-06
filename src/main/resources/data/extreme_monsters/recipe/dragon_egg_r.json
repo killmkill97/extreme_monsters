@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:duplicated_dragon_egg_chunk"
+    }
+  },
+  "result": {
+    "id": "minecraft:dragon_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_magma"
+    },
+    "b": {
+      "item": "extreme_monsters:abyssal_count_down"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:singularity"
+    },
+    "e": {
+      "item": "extreme_monsters:infinite_water_amulet"
+    },
+    "f": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:vapor_emitter",
+    "count": 1
+  }
+}

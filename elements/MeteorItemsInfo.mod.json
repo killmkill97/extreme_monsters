@@ -1,0 +1,17 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:MysteryCube"
+      },
+      {
+        "value": "CUSTOM:HyperStone"
+      }
+    ],
+    "information": [
+      "It can be found in meteors scattered throughout the Overworld."
+    ]
+  }
+}

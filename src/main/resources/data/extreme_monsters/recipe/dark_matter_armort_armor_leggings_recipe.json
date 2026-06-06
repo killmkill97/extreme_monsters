@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "cdc",
+    "e e"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    "d": {
+      "item": "extreme_monsters:black_hole_matter_armor_leggings"
+    },
+    "e": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_armor_leggings",
+    "count": 1
+  }
+}

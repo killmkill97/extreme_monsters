@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:ring_of_flight"
+    },
+    "b": {
+      "item": "extreme_monsters:schema_nether_star"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter_armor_boots"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "e": {
+      "item": "extreme_monsters:perfect_matter_fragment"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_matter_armor_boots",
+    "count": 1
+  }
+}

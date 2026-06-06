@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:trackers_void"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:perfect_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_defender_mk_5"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:infinity_tracker_defender",
+    "count": 1
+  }
+}

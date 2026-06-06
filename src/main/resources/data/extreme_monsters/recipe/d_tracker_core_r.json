@@ -1,0 +1,21 @@
+{
+  "type": "extreme_monsters:molecular_matter_resynthesize",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_tracker_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:tracker_core",
+    "count": 2
+  }
+}

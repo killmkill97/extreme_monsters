@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:ultimate_block"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:ultimate_ingot",
+    "count": 9
+  }
+}

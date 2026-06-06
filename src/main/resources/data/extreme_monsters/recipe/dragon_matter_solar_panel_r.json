@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_solar_planel"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_solar_panel"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_solar_panel",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMatterFuel"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:MolecularAlloyIngot"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MolecularDissolver"
+    },
+    "name": "molecular_dissolver_r",
+    "namespace": "mod"
+  }
+}

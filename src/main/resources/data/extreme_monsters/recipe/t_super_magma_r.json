@@ -1,0 +1,21 @@
+{
+  "type": "extreme_monsters:molecular_matter_resynthesize",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_magma_cream"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:super_magma",
+    "count": 12
+  }
+}

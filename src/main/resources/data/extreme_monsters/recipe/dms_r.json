@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bc ",
+    "db "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_stone"
+    },
+    "c": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_sword"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterIngotBlock"
+    },
+    "name": "dmib_r",
+    "namespace": "mod"
+  }
+}

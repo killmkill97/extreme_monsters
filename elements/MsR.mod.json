@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      },
+      {
+        "value": "CUSTOM:HyperBone"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      },
+      {
+        "value": "CUSTOM:BasicMachineFrame"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      },
+      {
+        "value": "CUSTOM:HyperSpiderEye"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterStick"
+      },
+      {
+        "value": "CUSTOM:HyperGunpowder"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MobSeduce"
+    },
+    "name": "ms_r",
+    "namespace": "mod"
+  }
+}

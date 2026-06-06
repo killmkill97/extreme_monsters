@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_block"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:tungsten_crystal_matrix_ingot",
+    "count": 9
+  }
+}

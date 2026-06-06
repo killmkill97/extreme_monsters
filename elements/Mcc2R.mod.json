@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock2x"
+      },
+      {
+        "value": "CUSTOM:HyperIngot2"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock2x"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystCompressor1"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DuplicatedBedrock"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MatterCatalystCompressor2"
+    },
+    "name": "mcc_2_r",
+    "namespace": "mod"
+  }
+}

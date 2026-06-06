@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_ender_dragon_in_the_bottle"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter",
+    "count": 2
+  }
+}

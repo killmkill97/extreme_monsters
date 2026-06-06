@@ -1,0 +1,14 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      }
+    ],
+    "information": [
+      "drop from Tracker when it die"
+    ]
+  }
+}

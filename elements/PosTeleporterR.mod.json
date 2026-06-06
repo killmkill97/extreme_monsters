@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:QuantumEntangler"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:QuantumAnchor"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PosTeleporter"
+    },
+    "name": "pos_teleporter_r",
+    "namespace": "mod"
+  }
+}

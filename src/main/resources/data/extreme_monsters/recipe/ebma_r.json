@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_apple"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:eternal_black_hole_matter_apple",
+    "count": 1
+  }
+}

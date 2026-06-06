@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "extreme_monsters:block/dark_item_output_block"
+    }
+  }
+}

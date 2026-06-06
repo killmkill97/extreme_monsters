@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:hyper_enssence_1"
+    },
+    "title": {
+      "translate": "advancements.the_fun_1_hour_hyper_mix.title"
+    },
+    "description": {
+      "translate": "advancements.the_fun_1_hour_hyper_mix.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_fun_1_hour_hyper_mix_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:hyper_enssence_1"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:real_dark_matter"
+}

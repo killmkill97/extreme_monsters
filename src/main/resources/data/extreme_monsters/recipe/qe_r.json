@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "e": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "f": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    },
+    "g": {
+      "item": "extreme_monsters:black_hole_matter_block_1x"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:quantum_entangler",
+    "count": 1
+  }
+}

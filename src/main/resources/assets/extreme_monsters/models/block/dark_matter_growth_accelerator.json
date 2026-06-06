@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/dark_matter_ingot_block",
+    "up": "extreme_monsters:block/dark_matter_ingot_block",
+    "north": "extreme_monsters:block/growth_accelerator",
+    "east": "extreme_monsters:block/growth_accelerator",
+    "south": "extreme_monsters:block/growth_accelerator",
+    "west": "extreme_monsters:block/growth_accelerator",
+    "particle": "extreme_monsters:block/dark_matter_ingot_block"
+  },
+  "render_type": "solid"
+}

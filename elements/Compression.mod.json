@@ -1,0 +1,41 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "air.png",
+    "width": 128,
+    "height": 40,
+    "icon": {
+      "value": "CUSTOM:BlackHoleMatterBlock"
+    },
+    "craftingtables": [],
+    "enableCraftingtable": false,
+    "title": "Compression",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 50,
+        "y": 24,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 50,
+        "y": 12,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 50,
+        "y": 0,
+        "slotid": 2
+      },
+      {
+        "type": "OUTPUT",
+        "x": 80,
+        "y": 5,
+        "slotid": 0
+      }
+    ]
+  }
+}

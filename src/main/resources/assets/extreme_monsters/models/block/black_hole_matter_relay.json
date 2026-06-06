@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/black_hole_matter_relay",
+    "up": "extreme_monsters:block/black_hole_matter_relay_top",
+    "north": "extreme_monsters:block/black_hole_matter_relay",
+    "east": "extreme_monsters:block/black_hole_matter_relay",
+    "south": "extreme_monsters:block/black_hole_matter_relay",
+    "west": "extreme_monsters:block/black_hole_matter_relay",
+    "particle": "extreme_monsters:block/black_hole_matter_relay"
+  },
+  "render_type": "solid"
+}

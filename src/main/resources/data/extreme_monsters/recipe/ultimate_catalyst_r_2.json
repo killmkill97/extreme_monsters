@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_nether_star"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_ingot_block"
+    },
+    "d": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "e": {
+      "item": "extreme_monsters:mixed_hyper_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:black_hole_matter_block_5x"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ultimate_core",
+    "count": 1
+  }
+}

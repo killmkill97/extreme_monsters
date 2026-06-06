@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:dragon_energy_acceptor",
+    "extreme_monsters:dragon_mining_casing",
+    "extreme_monsters:dragon_item_output_block"
+  ]
+}

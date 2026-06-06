@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:duplicated_dragon_egg_chunk"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_ender_dragon_in_the_bottle"
+    }
+  },
+  "result": {
+    "id": "minecraft:dragon_egg",
+    "count": 20
+  }
+}

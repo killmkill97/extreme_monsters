@@ -1,0 +1,119 @@
+{
+  "_fv": 73,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "perfect_matter_helmet",
+    "enableBody": true,
+    "textureBody": "perfect_matter_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "perfect_matter_leggings",
+    "enableBoots": true,
+    "textureBoots": "perfect_matter_boots",
+    "onHelmetTick": {
+      "name": "PerfectMatterHeletNoHungry"
+    },
+    "onBodyTick": {
+      "name": "PerfectMatterChestplateTick"
+    },
+    "onLeggingsTick": {
+      "name": "PerfectMatterLeggingsTick"
+    },
+    "onBootsTick": {
+      "name": "PerfectMatterBootsTick"
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      },
+      {
+        "value": "CUSTOM:HyperMonsters"
+      }
+    ],
+    "armorTextureFile": "perfect_matter_armor",
+    "helmetName": "§4Perfect Matter Helmet",
+    "bodyName": "§4Perfect Matter Chestplate",
+    "leggingsName": "§4Perfect Matter Leggings",
+    "bootsName": "§4Perfect Matter Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetGlowCondition": {
+      "fixedValue": false
+    },
+    "bodyGlowCondition": {
+      "fixedValue": false
+    },
+    "leggingsGlowCondition": {
+      "fixedValue": false
+    },
+    "bootsGlowCondition": {
+      "fixedValue": false
+    },
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 1024,
+    "damageValueHelmet": 999,
+    "damageValueBody": 999,
+    "damageValueLeggings": 999,
+    "damageValueBoots": 999,
+    "enchantability": 9999,
+    "toughness": 999.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:PerfectMatterFragment"
+      }
+    ]
+  }
+}

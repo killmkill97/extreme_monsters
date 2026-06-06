@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      },
+      {
+        "value": "CUSTOM:AssemblerUpgrade1"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      },
+      {
+        "value": "CUSTOM:AssemblerUpgrade1"
+      },
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AssemblerUpgrade2"
+    },
+    "name": "au_2_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:assembler_upgrade_2"
+    },
+    "b": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:assembler_upgrade_3",
+    "count": 1
+  }
+}

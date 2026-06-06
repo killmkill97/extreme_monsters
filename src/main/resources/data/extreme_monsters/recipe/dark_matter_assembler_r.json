@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "minecraft:crafter"
+    },
+    "c": {
+      "item": "minecraft:piston"
+    },
+    "d": {
+      "item": "extreme_monsters:black_hole_matter_assembler"
+    },
+    "e": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "f": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_assembler",
+    "count": 1
+  }
+}

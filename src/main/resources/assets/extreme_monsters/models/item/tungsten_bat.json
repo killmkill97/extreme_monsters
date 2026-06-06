@@ -1,0 +1,7 @@
+{
+  "parent": "extreme_monsters:custom/tungsten_bat",
+  "textures": {
+    "0": "extreme_monsters:block/tungsten_bat",
+    "particle": "extreme_monsters:item/tungstun_bat_for_check"
+  }
+}

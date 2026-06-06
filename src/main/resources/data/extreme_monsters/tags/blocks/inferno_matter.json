@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_matter_block",
+    "extreme_monsters:tracker_defender_mk_3",
+    "extreme_monsters:inferno_matter_solar_panel",
+    "extreme_monsters:inferno_matter_relay",
+    "extreme_monsters:combustion_generator_mk_3",
+    "extreme_monsters:matter_fusion_reactor_3",
+    "extreme_monsters:soul_insert_machine_mk_3",
+    "extreme_monsters:simulation_chamber_mk_3",
+    "extreme_monsters:dark_matter_generator_mk_3",
+    "extreme_monsters:force_emitter",
+    "extreme_monsters:inferno_energy_cube",
+    "extreme_monsters:inferno_matter_ingot_block",
+    "extreme_monsters:matter_catalyst_compressor_1"
+  ]
+}

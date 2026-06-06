@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_fuel"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_block_2x"
+    },
+    {
+      "item": "extreme_monsters:duplicated_bedrock"
+    },
+    {
+      "item": "extreme_monsters:dark_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:mixed_hyper_essence",
+    "count": 1
+  }
+}

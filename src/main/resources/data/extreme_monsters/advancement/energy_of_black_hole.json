@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:black_hole_matter_solar_planel"
+    },
+    "title": {
+      "translate": "advancements.energy_of_black_hole.title"
+    },
+    "description": {
+      "translate": "advancements.energy_of_black_hole.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "energy_of_black_hole_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:black_hole_matter_solar_planel"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    },
+    "energy_of_black_hole_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:black_hole_matter_relay"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:machine_frame"
+}

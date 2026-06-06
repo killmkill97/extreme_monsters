@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_apple"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:eternal_black_hole_matter_apple"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:eternal_dark_matter_apple",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "dark_matter_sword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "§eDark Matter Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:HyperMonsters"
+      },
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "efficiency": 99999.0,
+    "attackSpeed": 1.6,
+    "enchantability": 2,
+    "damageVsEntity": 16.0,
+    "usageCount": 0,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

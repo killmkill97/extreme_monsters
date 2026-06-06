@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/microverse_casing",
+    "particle": "extreme_monsters:block/microverse_casing"
+  },
+  "render_type": "solid"
+}

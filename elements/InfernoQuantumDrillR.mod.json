@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatterQuantumVault"
+      },
+      {
+        "value": "CUSTOM:QuantumEntangler"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoQuantumDrill"
+    },
+    "name": "inferno_quantum_drill_r",
+    "namespace": "mod"
+  }
+}

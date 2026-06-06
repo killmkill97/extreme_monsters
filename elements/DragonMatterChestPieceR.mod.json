@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EternalDarkMatterApple"
+      },
+      {
+        "value": "CUSTOM:HyperEssence3"
+      },
+      {
+        "value": "CUSTOM:EternalDarkMatterApple"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMatterBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterCrystalMatrixIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperDamageProtector"
+    },
+    "name": "dragon_matter_chest_piece_r",
+    "namespace": "mod"
+  }
+}

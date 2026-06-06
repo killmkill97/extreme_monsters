@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_quantum_vault"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    },
+    "d": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "f": {
+      "item": "extreme_monsters:inferno_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_fictional_planet_model_modifier",
+    "count": 1
+  }
+}

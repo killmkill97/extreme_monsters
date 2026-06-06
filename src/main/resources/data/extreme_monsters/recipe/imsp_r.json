@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_solar_panel"
+    },
+    "c": {
+      "item": "minecraft:crimson_stem"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_solar_panel",
+    "count": 1
+  }
+}

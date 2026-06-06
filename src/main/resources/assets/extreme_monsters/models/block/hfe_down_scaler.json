@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/scaler_fe",
+    "up": "extreme_monsters:block/scaler_hfe",
+    "north": "extreme_monsters:block/hfe_downscaler",
+    "east": "extreme_monsters:block/hfe_downscaler",
+    "south": "extreme_monsters:block/hfe_downscaler",
+    "west": "extreme_monsters:block/hfe_downscaler",
+    "particle": "extreme_monsters:block/scaler_fe"
+  },
+  "render_type": "solid"
+}

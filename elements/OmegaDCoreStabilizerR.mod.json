@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DragonMatterBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:DragonMachineFrame"
+      },
+      {
+        "value": "CUSTOM:DarkMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DragonMatterBlock"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OmegaDCoreStabilizer"
+    },
+    "name": "omega_d_core_stabilizer_r",
+    "namespace": "mod"
+  }
+}

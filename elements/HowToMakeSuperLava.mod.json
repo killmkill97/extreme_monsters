@@ -1,0 +1,14 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SuperLava.bucket"
+      }
+    ],
+    "information": [
+      "Super Lava forms over time when Lava is placed on top of Super Magma."
+    ]
+  }
+}

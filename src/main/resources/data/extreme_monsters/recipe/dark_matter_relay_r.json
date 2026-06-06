@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_relay",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_crystal_matrix_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:duplicator"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_fuel"
+    },
+    "f": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:duplicator_mk_2",
+    "count": 1
+  }
+}

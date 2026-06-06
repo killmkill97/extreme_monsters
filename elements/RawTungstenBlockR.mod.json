@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RawTungstenBlock"
+    },
+    "name": "raw_tungsten_block_r",
+    "namespace": "mod"
+  }
+}

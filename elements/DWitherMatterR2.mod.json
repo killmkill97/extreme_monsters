@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_matter_resynthesize",
+    "result": {
+      "value": "CUSTOM:WitherMatter"
+    },
+    "count": 4,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperWitherInTheBottle"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence2"
+      },
+      {
+        "value": "CUSTOM:DragonMatter"
+      }
+    ]
+  }
+}

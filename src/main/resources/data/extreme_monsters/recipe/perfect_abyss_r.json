@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:abyssal_count_down"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:trackers_void"
+    },
+    "d": {
+      "item": "extreme_monsters:perfect_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:force_emitter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:perfect_abyss",
+    "count": 1
+  }
+}

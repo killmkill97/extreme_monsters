@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_bone"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_enssence_1",
+    "count": 1
+  }
+}

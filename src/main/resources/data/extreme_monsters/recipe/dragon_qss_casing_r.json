@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_qss_casing",
+    "count": 4
+  }
+}

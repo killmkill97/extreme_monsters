@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "d": {
+      "item": "extreme_monsters:quantum_entangler"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:quantum_anchor"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:pos_teleporter",
+    "count": 1
+  }
+}

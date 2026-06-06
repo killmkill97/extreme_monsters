@@ -1,0 +1,21 @@
+{
+  "type": "extreme_monsters:molecular_dissolve",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:super_magma"
+    },
+    {
+      "item": "extreme_monsters:stars_soul"
+    },
+    {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    },
+    {
+      "item": "extreme_monsters:super_matter_catalyst"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:molecular_solvent_bucket",
+    "count": 1
+  }
+}

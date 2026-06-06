@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:coal",
+    "minecraft:raw_copper",
+    "minecraft:emerald",
+    "minecraft:cobblestone",
+    "minecraft:diorite",
+    "minecraft:granite"
+  ]
+}

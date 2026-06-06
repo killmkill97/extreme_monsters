@@ -1,0 +1,18 @@
+{
+  "type": "extreme_monsters:incubate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:black_hole_matter_block_1x"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:tracker_in_the_bottle",
+    "count": 1
+  }
+}

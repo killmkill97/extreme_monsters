@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "extreme_monsters:custom/planetary_regulator_particle"
+    },
+    "blockstate=1": {
+      "model": "extreme_monsters:block/planetary_regulator_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "extreme_monsters:block/planetary_regulator_blockstate_1"
+    }
+  }
+}

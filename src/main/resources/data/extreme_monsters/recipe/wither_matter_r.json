@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "cba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_nether_star"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter",
+    "count": 4
+  }
+}

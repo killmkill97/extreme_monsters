@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HyperSpiderEye"
+      },
+      {
+        "value": "CUSTOM:DarkMatterArmor.boots"
+      },
+      {
+        "value": "CUSTOM:HyperSpiderEye"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoMatterArmor.boots"
+    },
+    "name": "imbo_r",
+    "namespace": "mod"
+  }
+}

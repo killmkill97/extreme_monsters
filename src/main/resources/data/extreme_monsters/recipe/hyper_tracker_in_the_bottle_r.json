@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:tracker_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_tracker_in_the_bottle",
+    "count": 1
+  }
+}

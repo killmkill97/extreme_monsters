@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "c": {
+      "item": "extreme_monsters:black_matter_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:netherite_fusion_reactor",
+    "count": 1
+  }
+}

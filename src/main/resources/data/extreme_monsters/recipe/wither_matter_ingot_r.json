@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_ingot",
+    "count": 1
+  }
+}

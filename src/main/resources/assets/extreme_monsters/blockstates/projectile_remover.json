@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/projectile_remover"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/projectile_remover",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/projectile_remover",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/projectile_remover",
+      "y": 270
+    }
+  }
+}

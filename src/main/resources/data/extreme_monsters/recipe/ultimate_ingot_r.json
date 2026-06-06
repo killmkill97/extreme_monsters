@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:ultimate_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ultimate_ingot",
+    "count": 1
+  }
+}

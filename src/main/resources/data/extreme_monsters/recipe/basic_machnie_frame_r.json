@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:awkward_machine_frame"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:basic_machine_frame",
+    "count": 1
+  }
+}

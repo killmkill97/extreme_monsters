@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    " c ",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:gold_block"
+    },
+    "c": {
+      "item": "minecraft:golden_axe"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_golden_axe",
+    "count": 1
+  }
+}

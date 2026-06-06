@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "extreme_monsters:item/soul_colletor_for_magma_cube"
+  }
+}

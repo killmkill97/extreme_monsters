@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:eternal_black_hole_matter_apple"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "minecraft:oak_sapling"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_core"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_sapling",
+    "count": 1
+  }
+}

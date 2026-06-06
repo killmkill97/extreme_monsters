@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "b": {
+      "item": "extreme_monsters:microverse_casing"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_block_3x"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:microverse_input_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    }
+  ],
+  "result": {
+    "id": "minecraft:rotten_flesh",
+    "count": 40
+  }
+}

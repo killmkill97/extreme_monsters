@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ebe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:simulation_chamber",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:tracker_spawn_detector",
+    "extreme_monsters:trackers_abyss",
+    "extreme_monsters:arrow_remover",
+    "extreme_monsters:nether_pass",
+    "extreme_monsters:infinite_water_amulet",
+    "extreme_monsters:evasion_amulet",
+    "extreme_monsters:trackers_void",
+    "extreme_monsters:tracker_avoider",
+    "extreme_monsters:singularity",
+    "extreme_monsters:ring_of_flight",
+    "extreme_monsters:end_pass",
+    "extreme_monsters:dragon_matter_chest_piece",
+    "extreme_monsters:perfect_abyss",
+    "extreme_monsters:hyper_item_magnet",
+    "extreme_monsters:hyper_totem_of_undying",
+    "extreme_monsters:ascended_evasion_amulet",
+    "extreme_monsters:upgraded_arrow_remover",
+    "extreme_monsters:super_damage_protector",
+    "extreme_monsters:combined_pass"
+  ]
+}

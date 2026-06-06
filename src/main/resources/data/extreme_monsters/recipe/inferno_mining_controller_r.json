@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_block"
+    },
+    "e": {
+      "item": "extreme_monsters:singularity"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_mining_controller",
+    "count": 1
+  }
+}

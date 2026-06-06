@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sticky_piston"
+    },
+    "b": {
+      "item": "extreme_monsters:trackers_soul"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "f": {
+      "item": "extreme_monsters:dark_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:duplicator",
+    "count": 1
+  }
+}

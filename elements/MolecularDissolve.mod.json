@@ -1,0 +1,51 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "molecular_dissolver_jei.png",
+    "width": 132,
+    "height": 58,
+    "icon": {
+      "value": "CUSTOM:MolecularDissolver"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:MolecularDissolver"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "Molecular Dissolve",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 8,
+        "y": 8,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 35,
+        "y": 8,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 8,
+        "y": 35,
+        "slotid": 2
+      },
+      {
+        "type": "INPUT",
+        "x": 35,
+        "y": 35,
+        "slotid": 3
+      },
+      {
+        "type": "OUTPUT",
+        "x": 107,
+        "y": 22,
+        "slotid": 0
+      }
+    ]
+  }
+}

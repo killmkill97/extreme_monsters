@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:singularity"
+    },
+    "b": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:stars_soul"
+    },
+    "d": {
+      "item": "extreme_monsters:molecular_alloy_ingot"
+    },
+    "e": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "f": {
+      "item": "extreme_monsters:alloy_smelter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:molecular_alloying_forge",
+    "count": 1
+  }
+}

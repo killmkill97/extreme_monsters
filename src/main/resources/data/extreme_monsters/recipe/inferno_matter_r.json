@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dark_matter"
+    },
+    {
+      "item": "extreme_monsters:super_magma"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    {
+      "item": "extreme_monsters:black_hole_matter_fuel"
+    },
+    {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    },
+    {
+      "item": "extreme_monsters:empty_item_slot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:inferno_matter",
+    "count": 1
+  }
+}

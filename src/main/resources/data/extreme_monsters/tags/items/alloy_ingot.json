@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:dragon_matter_ingot",
+    "extreme_monsters:wither_matter_ingot",
+    "extreme_monsters:hyper_gold_ingot_block",
+    "extreme_monsters:black_hole_matter_ingot_block",
+    "extreme_monsters:dark_matter_ingot_block",
+    "extreme_monsters:inferno_matter_ingot_block"
+  ]
+}

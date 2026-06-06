@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "fgf"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:campfire"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_fuel"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "f": {
+      "item": "minecraft:iron_block"
+    },
+    "g": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:combustion_generator",
+    "count": 1
+  }
+}

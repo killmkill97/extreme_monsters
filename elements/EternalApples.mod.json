@@ -1,0 +1,26 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Eternal Apples",
+    "achievementDescription": "Make a Eternal Dark Matter Apple",
+    "achievementIcon": {
+      "value": "CUSTOM:EternalDarkMatterApple"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [
+      "EaLoot"
+    ],
+    "rewardRecipes": [],
+    "rewardXP": 60000,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:SingularityInMotion"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"item_in_inventory\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">35</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:EternalDarkMatterApple</field></block></value></block></next></block></xml>"
+  }
+}

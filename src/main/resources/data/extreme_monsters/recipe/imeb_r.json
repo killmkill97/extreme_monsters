@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    },
+    "c": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_exp_bottle",
+    "count": 1
+  }
+}

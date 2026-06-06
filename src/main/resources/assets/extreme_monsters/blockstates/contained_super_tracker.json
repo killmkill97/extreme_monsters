@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "extreme_monsters:custom/contained_super_tracker_particle"
+    },
+    "blockstate=1": {
+      "model": "extreme_monsters:block/contained_super_tracker_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "extreme_monsters:block/contained_super_tracker_blockstate_1"
+    }
+  }
+}

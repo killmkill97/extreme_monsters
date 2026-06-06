@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter_shard"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_relay"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_energy_acceptor",
+    "count": 1
+  }
+}

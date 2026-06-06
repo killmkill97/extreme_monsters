@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:soul_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    }
+  },
+  "result": {
+    "item": "extreme_monsters:hyper_blazes_soul",
+    "nbt": "{Damage:500}",
+    "count": 1
+  }
+}

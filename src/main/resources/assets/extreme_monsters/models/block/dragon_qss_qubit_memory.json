@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/qubit_memory",
+    "up": "extreme_monsters:block/qubit_memory",
+    "north": "extreme_monsters:block/qubit_memory",
+    "east": "extreme_monsters:block/qubit_memory",
+    "south": "extreme_monsters:block/qubit_memory",
+    "west": "extreme_monsters:block/qubit_memory",
+    "particle": "extreme_monsters:block/qubit_memory"
+  },
+  "render_type": "solid"
+}

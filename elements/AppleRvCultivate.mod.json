@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "apple_cultivate",
+    "result": {
+      "value": "Items.APPLE"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Blocks.SAPLING#0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/duplicated_bedrock"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/duplicated_bedrock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/duplicated_bedrock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/duplicated_bedrock",
+      "y": 270
+    }
+  }
+}

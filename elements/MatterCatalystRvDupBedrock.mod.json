@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "compression",
+    "result": {
+      "value": "CUSTOM:MatterCatalystShard"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:DuplicatedBedrock"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystFoundation"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock"
+      }
+    ]
+  }
+}

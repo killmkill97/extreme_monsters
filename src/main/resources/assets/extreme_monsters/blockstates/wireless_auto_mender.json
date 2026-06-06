@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/wireless_auto_mender"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/wireless_auto_mender",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/wireless_auto_mender",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/wireless_auto_mender",
+      "y": 270
+    }
+  }
+}

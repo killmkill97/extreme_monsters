@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "ebf"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_bone"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "f": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_band_aid",
+    "count": 1
+  }
+}

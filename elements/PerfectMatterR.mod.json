@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "energizing",
+    "result": {
+      "value": "CUSTOM:PerfectMatter"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:EnergyStabilizer"
+      },
+      {
+        "value": "CUSTOM:QuantumInfuser"
+      },
+      {
+        "value": "CUSTOM:PerfectMatterFoundation"
+      }
+    ]
+  }
+}

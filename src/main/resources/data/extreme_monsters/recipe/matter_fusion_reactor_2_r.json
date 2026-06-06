@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tnt"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "d": {
+      "item": "extreme_monsters:matter_fusion_reactor_1"
+    },
+    "e": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "f": {
+      "item": "extreme_monsters:clever_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_fusion_reactor_2",
+    "count": 1
+  }
+}

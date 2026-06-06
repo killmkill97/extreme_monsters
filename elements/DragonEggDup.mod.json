@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "duplicate",
+    "result": {
+      "value": "CUSTOM:DuplicatedDragonEggChunk"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Blocks.DRAGON_EGG"
+      }
+    ]
+  }
+}

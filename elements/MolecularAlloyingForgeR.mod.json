@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:MolecularAlloyIngot"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:AlloySmelter"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MolecularAlloyingForge"
+    },
+    "name": "molecular_alloying_forge_r",
+    "namespace": "mod"
+  }
+}

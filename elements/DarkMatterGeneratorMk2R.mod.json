@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGenerator"
+      },
+      {
+        "value": "CUSTOM:BlackMatterIngot"
+      },
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      },
+      {
+        "value": "CUSTOM:AdvancedMachineFrame"
+      },
+      {
+        "value": "CUSTOM:HyperRottenFlesh"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterGeneratorMk2"
+    },
+    "name": "dark_matter_generator_mk_2_r",
+    "namespace": "mod"
+  }
+}

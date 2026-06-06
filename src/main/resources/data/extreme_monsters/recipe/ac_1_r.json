@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "b": {
+      "item": "minecraft:oak_sapling"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_apple"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:apple_cultivator_mk_1",
+    "count": 1
+  }
+}

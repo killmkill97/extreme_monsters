@@ -1,0 +1,6 @@
+{
+  "parent": "extreme_monsters:displaysettings/dragon_railgun_display",
+  "textures": {
+    "layer0": "extreme_monsters:item/dragon_railgun"
+  }
+}

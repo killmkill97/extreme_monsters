@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_crystal_matrix_ingot"
+    },
+    "d": {
+      "item": "minecraft:oak_sapling"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_core"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_sapling",
+    "count": 1
+  }
+}

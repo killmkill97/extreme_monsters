@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:dark_matter_generate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:black_hole_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dark_matter_fellet",
+    "count": 1
+  }
+}

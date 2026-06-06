@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_quantum_vault"
+    },
+    "d": {
+      "item": "extreme_monsters:quantum_entangler"
+    },
+    "e": {
+      "item": "extreme_monsters:matter_catalyst"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_quantum_drill",
+    "count": 1
+  }
+}

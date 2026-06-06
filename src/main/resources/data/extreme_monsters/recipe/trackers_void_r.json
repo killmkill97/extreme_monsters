@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:nether_brick"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "c": {
+      "item": "minecraft:crimson_stem"
+    },
+    "d": {
+      "item": "extreme_monsters:trackers_abyss"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:trackers_void",
+    "count": 1
+  }
+}

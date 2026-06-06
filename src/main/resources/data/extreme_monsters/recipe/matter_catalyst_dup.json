@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_matter_catalyst_shard",
+    "count": 1
+  }
+}

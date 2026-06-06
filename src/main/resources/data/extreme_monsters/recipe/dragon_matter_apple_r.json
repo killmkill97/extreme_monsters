@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:black_hole_matter_apple"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_apple",
+    "count": 1
+  }
+}

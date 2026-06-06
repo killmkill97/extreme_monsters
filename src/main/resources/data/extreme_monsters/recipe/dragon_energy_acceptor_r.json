@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_energy_acceptor"
+    },
+    "e": {
+      "item": "extreme_monsters:dragon_matter_relay"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_energy_acceptor",
+    "count": 1
+  }
+}

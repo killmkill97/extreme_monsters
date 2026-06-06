@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    " gh"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block_2x"
+    },
+    "b": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "c": {
+      "item": "extreme_monsters:singularity"
+    },
+    "d": {
+      "item": "extreme_monsters:stasis_laser_emitter"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_rail_gun"
+    },
+    "f": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "g": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "h": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:stasis_rail_gun",
+    "count": 1
+  }
+}

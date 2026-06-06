@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      },
+      {
+        "value": "CUSTOM:HyperEnderDragonInTheBottle"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      },
+      {
+        "value": "CUSTOM:MatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperEnderPearl"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DragonMatter"
+    },
+    "name": "dragon_matter_r_2",
+    "namespace": "mod"
+  }
+}

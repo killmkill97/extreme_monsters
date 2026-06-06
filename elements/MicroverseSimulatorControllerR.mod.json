@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:StellarCatalyst"
+      },
+      {
+        "value": "CUSTOM:HyperEssence4"
+      },
+      {
+        "value": "CUSTOM:StellarCatalyst"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "CUSTOM:WitherMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:SuperchargedDarkMatter"
+      },
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      },
+      {
+        "value": "CUSTOM:WitherMachineFrame"
+      },
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MicroverseSimulatorController"
+    },
+    "name": "microverse_simulator_controller_r",
+    "namespace": "mod"
+  }
+}

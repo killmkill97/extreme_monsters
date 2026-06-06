@@ -1,0 +1,35 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "OmegaDCore",
+    "blockstateList": [
+      {
+        "texture": "omega_d_core_top",
+        "textureTop": "omega_d_core_top",
+        "textureLeft": "omega_d_core_top",
+        "textureFront": "omega_d_core_top",
+        "textureRight": "omega_d_core_top",
+        "textureBack": "omega_d_core_top",
+        "particleTexture": "",
+        "renderType": 4,
+        "customModelName": "Single texture",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "omega_d_core_top",
+        "textureTop": "omega_d_core_top",
+        "textureLeft": "omega_d_core",
+        "textureFront": "omega_d_core",
+        "textureRight": "omega_d_core",
+        "textureBack": "omega_d_core",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 15,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

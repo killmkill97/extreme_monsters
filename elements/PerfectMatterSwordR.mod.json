@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WitherMatterCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:TrackersVoid"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:ExplosiveEmitter"
+      },
+      {
+        "value": "CUSTOM:WitherMatterSword"
+      },
+      {
+        "value": "CUSTOM:MobImmobilizer"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PerfectMatterSword"
+    },
+    "name": "perfect_matter_sword_r",
+    "namespace": "mod"
+  }
+}

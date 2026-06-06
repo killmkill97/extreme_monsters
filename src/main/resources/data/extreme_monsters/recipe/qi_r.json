@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_essence_3"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_quantum_vault"
+    },
+    "f": {
+      "item": "extreme_monsters:stars_soul"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:quantum_infuser",
+    "count": 1
+  }
+}

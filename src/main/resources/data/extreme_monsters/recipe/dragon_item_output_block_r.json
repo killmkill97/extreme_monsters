@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "c": {
+      "item": "minecraft:ender_chest"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_item_output_block",
+    "count": 1
+  }
+}

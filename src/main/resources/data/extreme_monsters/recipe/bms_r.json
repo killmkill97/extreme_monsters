@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "extreme_monsters:awkward_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_solar_planel",
+    "count": 1
+  }
+}

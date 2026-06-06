@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#extreme_monsters:upgrades",
+    "extreme_monsters:assembler_upgrade_1",
+    "extreme_monsters:assembler_upgrade_2",
+    "extreme_monsters:assembler_upgrade_3"
+  ]
+}

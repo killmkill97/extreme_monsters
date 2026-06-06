@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:magma_block"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_magma_cream"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:super_magma",
+    "count": 4
+  }
+}

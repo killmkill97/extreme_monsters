@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    "dc "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:soul_collector"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_magma_cream"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:fiery_soul_collector",
+    "count": 1
+  }
+}

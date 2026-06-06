@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "d": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hfe_down_scaler",
+    "count": 1
+  }
+}

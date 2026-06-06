@@ -1,0 +1,65 @@
+{
+  "_fv": 73,
+  "_type": "fluid",
+  "definition": {
+    "name": "Super Lava",
+    "bucketName": "Super Lava Bucket",
+    "textureStill": "super_lava_still",
+    "textureFlowing": "super_lava_flow",
+    "textureRenderOverlay": "",
+    "hasFog": true,
+    "fogColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 5,
+    "levelDecrease": 2,
+    "slopeFindDistance": 4,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "DRIP_LAVA"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 2673,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "super_lava_bucket",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:HyperMonsters"
+      },
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "emptySound": {
+      "value": "item.bucket.empty_lava"
+    },
+    "rarity": "UNCOMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 15,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 1,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onEntityCollides": {
+      "name": "SuperLavaDamage"
+    }
+  }
+}

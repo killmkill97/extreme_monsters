@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "ebf"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_bone"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_spider_eye"
+    },
+    "f": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:mob_seduce",
+    "count": 1
+  }
+}

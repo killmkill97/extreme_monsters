@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/molecular2",
+    "up": "extreme_monsters:block/molecular2",
+    "north": "extreme_monsters:block/molecular_matter_resynthesizer",
+    "east": "extreme_monsters:block/molecular_side",
+    "south": "extreme_monsters:block/molecular_side",
+    "west": "extreme_monsters:block/molecular_side",
+    "particle": "extreme_monsters:block/molecular2"
+  },
+  "render_type": "solid"
+}

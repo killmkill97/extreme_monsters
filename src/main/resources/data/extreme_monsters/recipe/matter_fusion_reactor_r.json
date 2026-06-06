@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:reinforced_redstone_block"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "extreme_monsters:basic_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "f": {
+      "item": "extreme_monsters:black_matter_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_fusion_reactor_1",
+    "count": 1
+  }
+}

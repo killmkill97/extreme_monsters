@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    },
+    "d": {
+      "item": "extreme_monsters:simulation_chamber_mk_2"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "f": {
+      "item": "extreme_monsters:clever_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:simulation_chamber_mk_3",
+    "count": 1
+  }
+}

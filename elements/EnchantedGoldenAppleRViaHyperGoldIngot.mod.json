@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      },
+      {
+        "value": "CUSTOM:HyperGoldIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "name": "enchanted_golden_apple_r_via_hyper_gold_ingot",
+    "namespace": "mod"
+  }
+}

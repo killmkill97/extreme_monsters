@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_crystal_matrix_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:assembler_upgrade_1"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:assembler_upgrade_2",
+    "count": 1
+  }
+}

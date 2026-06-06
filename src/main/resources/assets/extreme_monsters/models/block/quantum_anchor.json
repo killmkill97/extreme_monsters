@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/quantum_anchor",
+    "particle": "extreme_monsters:block/quantum_anchor"
+  },
+  "render_type": "solid"
+}

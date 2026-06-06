@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_block"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_containment_cage",
+    "count": 1
+  }
+}

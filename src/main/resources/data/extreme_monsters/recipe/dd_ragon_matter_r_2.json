@@ -1,0 +1,21 @@
+{
+  "type": "extreme_monsters:molecular_matter_resynthesize",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_ender_dragon_in_the_bottle"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dragon_matter",
+    "count": 4
+  }
+}

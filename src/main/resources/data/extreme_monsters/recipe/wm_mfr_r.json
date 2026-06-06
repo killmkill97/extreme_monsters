@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter_solar_panel"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:matter_fusion_reactor_4"
+    },
+    "e": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "f": {
+      "item": "extreme_monsters:combustion_generator_mk_5"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_fusion_reactor_5",
+    "count": 1
+  }
+}

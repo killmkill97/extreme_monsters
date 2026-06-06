@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_crystal_matrix_ingot"
+    },
+    "c": {
+      "item": "minecraft:ghast_tear"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "f": {
+      "item": "extreme_monsters:clever_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tear_extractor_mk_1",
+    "count": 1
+  }
+}

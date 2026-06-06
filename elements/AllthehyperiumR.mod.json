@@ -1,0 +1,31 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "alloy_smelte",
+    "result": {
+      "value": "CUSTOM:AllthehyperiumIngot"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:MixedHyperIngot"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:HyperDragonIngot"
+      },
+      {
+        "value": "CUSTOM:HyperWitherIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnderWitherInTheBottle"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      }
+    ]
+  }
+}

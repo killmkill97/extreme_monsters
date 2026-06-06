@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "extreme_monsters:block/reinforced_redstone_block"
+    }
+  }
+}

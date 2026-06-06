@@ -1,0 +1,41 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:TrackersSoul"
+      },
+      {
+        "value": "CUSTOM:HyperZombiesSoul"
+      },
+      {
+        "value": "CUSTOM:HyperSkeletonsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperCreepersSoul"
+      },
+      {
+        "value": "CUSTOM:HyperSpidersSoul"
+      },
+      {
+        "value": "CUSTOM:HyperZombifiedPiglinsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperWitherSkeletonsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperBlazesSoul"
+      },
+      {
+        "value": "CUSTOM:HyperEndermansSoul"
+      },
+      {
+        "value": "CUSTOM:HyperMagmaCubesSoul"
+      }
+    ],
+    "information": [
+      "Can use through Simulation Chambers"
+    ]
+  }
+}

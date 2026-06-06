@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:dark_matter_ingot"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:dark_matter_ingot_block",
+    "count": 1
+  }
+}

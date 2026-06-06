@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blackhole_matter_shield"
+      },
+      "name": "default"
+    }
+  }
+}

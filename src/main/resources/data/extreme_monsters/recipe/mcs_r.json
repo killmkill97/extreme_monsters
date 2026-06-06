@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:duplicated_matter_catalyst_shard"
+    },
+    {
+      "item": "extreme_monsters:duplicated_matter_catalyst_shard"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:matter_catalyst_shard",
+    "count": 1
+  }
+}

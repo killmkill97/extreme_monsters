@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "extreme_monsters:end_of_the_em",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 80,
+    "separation": 50,
+    "salt": 2121967903
+  }
+}

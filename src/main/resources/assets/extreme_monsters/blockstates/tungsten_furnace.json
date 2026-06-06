@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/tungsten_furnace"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/tungsten_furnace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/tungsten_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/tungsten_furnace",
+      "y": 270
+    }
+  }
+}

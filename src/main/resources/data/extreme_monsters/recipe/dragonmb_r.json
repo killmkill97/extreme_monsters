@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "b": {
+      "item": "extreme_monsters:inferno_matter_armor_boots"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_armor_boots",
+    "count": 1
+  }
+}

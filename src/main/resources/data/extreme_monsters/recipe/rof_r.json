@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:singularity"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:ring_of_flight",
+    "count": 1
+  }
+}

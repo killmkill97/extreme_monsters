@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:raw_gold",
+    "minecraft:redstone",
+    "minecraft:diamond",
+    "minecraft:quartz",
+    "minecraft:cobbled_deepslate",
+    "minecraft:tuff"
+  ]
+}

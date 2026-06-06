@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_2"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_ingot_2",
+    "count": 1
+  }
+}

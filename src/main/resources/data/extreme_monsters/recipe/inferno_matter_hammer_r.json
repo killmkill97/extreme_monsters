@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:tungsten_block"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_hammer"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_matter_hammer",
+    "count": 1
+  }
+}

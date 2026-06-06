@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "apple_cultivate",
+    "result": {
+      "value": "CUSTOM:InfernoMatterApple"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:InfernoMatterSapling"
+      }
+    ]
+  }
+}

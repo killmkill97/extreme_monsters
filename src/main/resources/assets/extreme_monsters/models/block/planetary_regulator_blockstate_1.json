@@ -1,0 +1,6 @@
+{
+  "parent": "extreme_monsters:custom/planetary_regulator_particle",
+  "textures": {
+    "particle": "extreme_monsters:block/planetary_regulator"
+  }
+}

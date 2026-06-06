@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "extreme_monsters:tracker_spawn_detector"
+    },
+    "c": {
+      "item": "extreme_monsters:basic_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_defender",
+    "count": 1
+  }
+}

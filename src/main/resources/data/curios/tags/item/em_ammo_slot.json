@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:inferno_rail_gun_stick",
+    "extreme_monsters:stasis_rail_gun_stick",
+    "extreme_monsters:matter_catalyst",
+    "extreme_monsters:dark_matter",
+    "extreme_monsters:black_hole_matter_block",
+    "extreme_monsters:normal_arrow"
+  ]
+}

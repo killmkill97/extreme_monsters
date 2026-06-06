@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/black_hole_black",
+    "up": "extreme_monsters:block/black_hole_black",
+    "north": "extreme_monsters:block/netherrite_generator_animation",
+    "east": "extreme_monsters:block/dark_matter_generator_side",
+    "south": "extreme_monsters:block/dark_matter_generator_side",
+    "west": "extreme_monsters:block/dark_matter_generator_side",
+    "particle": "extreme_monsters:block/black_hole_black"
+  },
+  "render_type": "solid"
+}

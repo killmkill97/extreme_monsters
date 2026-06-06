@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "simulation_jei",
+    "result": {
+      "value": "CUSTOM:HyperGoldNugget"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperZombifiedPiglinsSoul"
+      }
+    ]
+  }
+}

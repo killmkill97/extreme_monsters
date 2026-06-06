@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_matter_resynthesize",
+    "result": {
+      "value": "CUSTOM:TrackerCore"
+    },
+    "count": 2,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperTrackerInTheBottle"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:DarkMatterBlock"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:DarkMatterQuantumVault"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterShard"
+      },
+      {
+        "value": "CUSTOM:HyperWitheredBone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InfernoItemOutputBlock"
+    },
+    "name": "inferno_item_output_block_r",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_assemble",
+    "result": {
+      "value": "CUSTOM:HyperEnderWitherInTheBottle"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:HyperEnderDragonInTheBottle"
+      },
+      {
+        "value": "CUSTOM:HyperWitherInTheBottle"
+      },
+      {
+        "value": "CUSTOM:HyperTrackerInTheBottle"
+      },
+      {
+        "value": "CUSTOM:WitherMatterBlock"
+      },
+      {
+        "value": "CUSTOM:MixedHyperEssence"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      },
+      {
+        "value": "CUSTOM:WitherMatterApple"
+      },
+      {
+        "value": "CUSTOM:InfernoMatterIngotBlock"
+      }
+    ]
+  }
+}

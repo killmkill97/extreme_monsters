@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:molecular_compress",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:dense_redstone_4"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dense_redstone_5",
+    "count": 1
+  }
+}

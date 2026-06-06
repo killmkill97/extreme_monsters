@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_gunpowder"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gunpowder",
+    "count": 40
+  }
+}

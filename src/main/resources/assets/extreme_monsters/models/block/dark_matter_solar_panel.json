@@ -1,0 +1,9 @@
+{
+  "parent": "extreme_monsters:custom/dark_matter_solar_planel",
+  "textures": {
+    "all": "extreme_monsters:block/dmsp",
+    "particle": "extreme_monsters:block/dmsp",
+    "0": "extreme_monsters:block/dark_matter_solar_panel"
+  },
+  "render_type": "solid"
+}

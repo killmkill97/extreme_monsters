@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:super_magma"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_essence_4"
+    },
+    "c": {
+      "item": "extreme_monsters:tracker_core"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "e": {
+      "item": "extreme_monsters:wither_matter_block"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_matter_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_incubator",
+    "count": 1
+  }
+}

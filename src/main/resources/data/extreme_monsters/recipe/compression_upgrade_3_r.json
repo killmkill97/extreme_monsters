@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "b": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    },
+    "c": {
+      "item": "extreme_monsters:compression_upgrade_2"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_essence_3"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:compression_upgrade_3",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "extreme_monsters:advanced_dark_matter_generate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst_shard"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:dark_matter",
+    "count": 1
+  }
+}

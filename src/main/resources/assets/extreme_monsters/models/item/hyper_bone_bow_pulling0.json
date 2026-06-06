@@ -1,0 +1,7 @@
+{
+    "parent": "item/bow",
+    "textures": 
+    {
+        "layer0": "extreme_monsters:items/hyper_bone_bow_pulling_0"
+    }
+}

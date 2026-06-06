@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/dragon_qss_controller"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/dragon_qss_controller",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/dragon_qss_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/dragon_qss_controller",
+      "y": 270
+    }
+  }
+}

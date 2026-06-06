@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "extreme_monsters:item/black_hole_matter_hammer"
+  }
+}

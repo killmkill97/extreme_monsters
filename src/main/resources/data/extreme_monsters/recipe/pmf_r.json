@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:perfect_matter"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:perfect_matter_fragment",
+    "count": 4
+  }
+}

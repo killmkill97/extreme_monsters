@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_solar_planel"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter_ingot_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:artificial_sun",
+    "count": 1
+  }
+}

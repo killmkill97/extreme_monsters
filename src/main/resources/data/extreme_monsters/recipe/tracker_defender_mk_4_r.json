@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:tracker_defender_mk_3"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "f": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_defender_mk_4",
+    "count": 1
+  }
+}

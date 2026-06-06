@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:simulation_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:trackers_soul"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:black_hole_matter",
+    "count": 5
+  }
+}

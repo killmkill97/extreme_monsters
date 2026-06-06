@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:dragon_qss_casing",
+    "extreme_monsters:dragon_qss_stabilizer",
+    "extreme_monsters:dragon_qss_qubit_memory",
+    "extreme_monsters:dragon_qss_error_solver"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_dragon_skin"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_dragon_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/zio_exporter"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/zio_exporter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/zio_exporter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/zio_exporter",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "extreme_monsters:block/zio_exporter",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "extreme_monsters:block/zio_exporter",
+      "x": 90
+    }
+  }
+}

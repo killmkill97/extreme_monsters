@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:InfernoEnergyCube"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:InfernoEnergyCube"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:DarkMatterIngotBlock"
+      },
+      {
+        "value": "CUSTOM:NetherStarBlock"
+      },
+      {
+        "value": "CUSTOM:InfernoEnergyCube"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock3x"
+      },
+      {
+        "value": "CUSTOM:InfernoEnergyCube"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperchargedDarkMatter"
+    },
+    "name": "supercharged_dark_matter_r",
+    "namespace": "mod"
+  }
+}

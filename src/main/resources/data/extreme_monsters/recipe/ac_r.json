@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:clock"
+    },
+    "b": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "c": {
+      "item": "extreme_monsters:black_hole_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:black_matter_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:abyssal_count_down",
+    "count": 1
+  }
+}

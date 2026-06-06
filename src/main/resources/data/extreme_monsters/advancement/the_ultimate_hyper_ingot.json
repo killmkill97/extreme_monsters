@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:allthehyperium_ingot"
+    },
+    "title": {
+      "translate": "advancements.the_ultimate_hyper_ingot.title"
+    },
+    "description": {
+      "translate": "advancements.the_ultimate_hyper_ingot.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_ultimate_hyper_ingot_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:allthehyperium_ingot"
+            ],
+            "count": {
+              "min": 0,
+              "max": 35
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:lets_make_an_alloy"
+}

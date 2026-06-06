@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    },
+    {
+      "item": "extreme_monsters:raw_tungsten"
+    }
+  ],
+  "result": {
+    "id": "extreme_monsters:raw_tungsten_block",
+    "count": 1
+  }
+}

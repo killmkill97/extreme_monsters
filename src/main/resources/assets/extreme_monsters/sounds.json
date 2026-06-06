@@ -1,0 +1,20 @@
+{
+  "extra_function": {
+    "subtitle": "subtitles.extra_function",
+    "sounds": [
+      {
+        "name": "extreme_monsters:sword-schwing-40520",
+        "stream": false
+      }
+    ]
+  },
+  "reactor_buzzing": {
+    "subtitle": "subtitles.reactor_buzzing",
+    "sounds": [
+      {
+        "name": "extreme_monsters:electric-buzz-8456-_mp3cut.net_",
+        "stream": false
+      }
+    ]
+  }
+}

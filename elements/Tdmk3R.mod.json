@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      },
+      {
+        "value": "Blocks.LIGHTNING_ROD"
+      },
+      {
+        "value": "CUSTOM:HyperGoldNugget"
+      },
+      {
+        "value": "CUSTOM:HyperSpiderEye"
+      },
+      {
+        "value": "CUSTOM:TrackerDefenderMk2"
+      },
+      {
+        "value": "CUSTOM:HyperSpiderEye"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystShard"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TrackerDefenderMk3"
+    },
+    "name": "tdmk_3_r",
+    "namespace": "mod"
+  }
+}

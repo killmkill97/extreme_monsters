@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/soul_insert_machine",
+    "up": "extreme_monsters:block/netherrite_generator_animation",
+    "north": "extreme_monsters:block/black_hole_black",
+    "east": "extreme_monsters:block/black_hole_black",
+    "south": "extreme_monsters:block/black_hole_black",
+    "west": "extreme_monsters:block/black_hole_black",
+    "particle": "extreme_monsters:block/soul_insert_machine"
+  },
+  "render_type": "solid"
+}

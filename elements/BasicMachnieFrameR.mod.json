@@ -1,0 +1,34 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "assembler",
+    "result": {
+      "value": "CUSTOM:BasicMachineFrame"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:AwkwardMachineFrame"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Blocks.COPPER_BLOCK"
+      },
+      {
+        "value": "CUSTOM:EmptyItemSlot"
+      },
+      {
+        "value": "CUSTOM:EmptyItemSlot"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatter"
+      }
+    ]
+  }
+}

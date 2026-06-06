@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/infinity_matrix"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/infinity_matrix",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/infinity_matrix",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/infinity_matrix",
+      "y": 270
+    }
+  }
+}

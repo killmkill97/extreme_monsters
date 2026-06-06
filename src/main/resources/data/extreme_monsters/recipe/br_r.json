@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    }
+  ],
+  "result": {
+    "id": "minecraft:blaze_rod",
+    "count": 40
+  }
+}

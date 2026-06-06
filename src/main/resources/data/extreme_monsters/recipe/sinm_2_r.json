@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_fellet"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_gunpowder"
+    },
+    "d": {
+      "item": "extreme_monsters:soul_insert_machine"
+    },
+    "e": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:soul_insert_machine_mk_2",
+    "count": 1
+  }
+}

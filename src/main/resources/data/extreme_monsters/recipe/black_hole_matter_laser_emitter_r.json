@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cda",
+    "ec "
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_stick"
+    },
+    "b": {
+      "item": "extreme_monsters:black_hole_matter_block_1x"
+    },
+    "c": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_block"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_laser_emitter",
+    "count": 1
+  }
+}

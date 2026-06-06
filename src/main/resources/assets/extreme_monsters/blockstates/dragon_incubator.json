@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/dragon_incubator"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/dragon_incubator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/dragon_incubator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/dragon_incubator",
+      "y": 270
+    }
+  }
+}

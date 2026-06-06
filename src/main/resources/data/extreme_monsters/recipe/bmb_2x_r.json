@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block_1x"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:black_hole_matter_block_2x",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extreme_monsters:block/dark_matter_growth_accelerator"
+    },
+    "facing=east": {
+      "model": "extreme_monsters:block/dark_matter_growth_accelerator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extreme_monsters:block/dark_matter_growth_accelerator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extreme_monsters:block/dark_matter_growth_accelerator",
+      "y": 270
+    }
+  }
+}

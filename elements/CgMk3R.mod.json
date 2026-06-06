@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:TrackerCore"
+      },
+      {
+        "value": "CUSTOM:MatterCatalystIngot"
+      },
+      {
+        "value": "CUSTOM:HyperEnssence1"
+      },
+      {
+        "value": "CUSTOM:CombustionGeneratorMk2"
+      },
+      {
+        "value": "CUSTOM:HyperMagmaCream"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CombustionGeneratorMk3"
+    },
+    "name": "cg_mk_3_r",
+    "namespace": "mod"
+  }
+}

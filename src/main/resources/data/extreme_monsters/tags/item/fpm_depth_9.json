@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone",
+    "minecraft:diamond",
+    "minecraft:quartz",
+    "extreme_monsters:raw_tungsten",
+    "minecraft:ancient_debris",
+    "minecraft:cobbled_deepslate"
+  ]
+}

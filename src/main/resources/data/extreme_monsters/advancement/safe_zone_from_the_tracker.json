@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "extreme_monsters:tracker_defender"
+    },
+    "title": {
+      "translate": "advancements.safe_zone_from_the_tracker.title"
+    },
+    "description": {
+      "translate": "advancements.safe_zone_from_the_tracker.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "safe_zone_from_the_tracker_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "extreme_monsters:tracker_defender"
+            ],
+            "count": {
+              "min": 1,
+              "max": 27
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "extreme_monsters:tracker_you_out"
+}

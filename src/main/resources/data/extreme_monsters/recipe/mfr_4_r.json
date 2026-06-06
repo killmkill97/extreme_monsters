@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dragon_matter_solar_panel"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_machine_frame"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_block"
+    },
+    "e": {
+      "item": "extreme_monsters:dark_matter_ingot"
+    },
+    "f": {
+      "item": "extreme_monsters:combustion_generator_mk_4"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:matter_fusion_reactor_4",
+    "count": 1
+  }
+}

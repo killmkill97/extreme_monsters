@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:black_hole_matter_block",
+    "extreme_monsters:black_hole_matter_glass",
+    "extreme_monsters:black_hole_matter_block_1x",
+    "extreme_monsters:black_hole_matter_block_2x",
+    "extreme_monsters:black_hole_matter_block_3x",
+    "extreme_monsters:dark_matter_generator",
+    "extreme_monsters:black_hole_matter_solar_planel",
+    "extreme_monsters:netherite_fusion_reactor",
+    "extreme_monsters:soul_insert_machine",
+    "extreme_monsters:simulation_chamber",
+    "extreme_monsters:black_hole_matter_assembler",
+    "extreme_monsters:awkward_machine_frame",
+    "extreme_monsters:basic_machine_frame",
+    "extreme_monsters:creative_generator",
+    "extreme_monsters:tracker_defender",
+    "extreme_monsters:matter_fusion_reactor_1",
+    "extreme_monsters:matter_catalyst_maker",
+    "extreme_monsters:black_hole_matter_relay",
+    "extreme_monsters:combustion_generator",
+    "extreme_monsters:mob_seduce",
+    "extreme_monsters:black_hole_matter_block_4x",
+    "extreme_monsters:black_hole_matter_block_5x",
+    "extreme_monsters:black_hole_matter_ingot_block",
+    "extreme_monsters:reinforced_redstone_block"
+  ]
+}

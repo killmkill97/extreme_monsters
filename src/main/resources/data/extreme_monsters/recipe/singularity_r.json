@@ -1,0 +1,30 @@
+{
+  "type": "extreme_monsters:assembler",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "extreme_monsters:black_matter_ingot"
+    },
+    {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    {
+      "item": "extreme_monsters:hyper_gold_ingot"
+    },
+    {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:singularity",
+    "count": 1
+  }
+}

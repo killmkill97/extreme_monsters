@@ -1,0 +1,9 @@
+{
+  "parent": "extreme_monsters:custom/inferno_matter_solar_planel",
+  "textures": {
+    "all": "extreme_monsters:block/imsp",
+    "particle": "extreme_monsters:block/imsp",
+    "0": "extreme_monsters:block/inferno_matter_solar_pnel"
+  },
+  "render_type": "solid"
+}

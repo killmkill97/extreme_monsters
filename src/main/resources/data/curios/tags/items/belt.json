@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:tracker_avoider",
+    "extreme_monsters:tracker_spawn_detector"
+  ]
+}

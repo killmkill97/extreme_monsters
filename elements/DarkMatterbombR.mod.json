@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      },
+      {
+        "value": "CUSTOM:BlackHoleBomb"
+      },
+      {
+        "value": "CUSTOM:DarkMatterFuel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkMatter"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMatterBomb"
+    },
+    "name": "dark_matterbomb_r",
+    "namespace": "mod"
+  }
+}

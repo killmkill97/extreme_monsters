@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "inferno_matter_solar_pnel"
+      },
+      "name": "default"
+    }
+  }
+}

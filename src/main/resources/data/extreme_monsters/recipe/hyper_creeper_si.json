@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:soul_insert_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_gunpowder"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_creepers_soul",
+    "count": 1
+  }
+}

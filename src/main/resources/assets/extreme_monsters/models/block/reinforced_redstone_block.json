@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "extreme_monsters:block/reinforced_redstone_block",
+    "particle": "extreme_monsters:block/reinforced_redstone_block"
+  },
+  "render_type": "solid"
+}

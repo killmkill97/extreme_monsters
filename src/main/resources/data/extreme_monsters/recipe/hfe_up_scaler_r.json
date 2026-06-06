@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "b": {
+      "item": "extreme_monsters:super_matter_catalyst"
+    },
+    "c": {
+      "item": "minecraft:amethyst_block"
+    },
+    "d": {
+      "item": "extreme_monsters:supercharged_dark_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:singularity"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hfe_up_scaler",
+    "count": 1
+  }
+}

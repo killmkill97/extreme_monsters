@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_assemble",
+    "result": {
+      "value": "CUSTOM:DysonRingController"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:PerfectMatter"
+      },
+      {
+        "value": "CUSTOM:WitherHfeCube"
+      },
+      {
+        "value": "CUSTOM:PlanetaryRegulator"
+      },
+      {
+        "value": "CUSTOM:Singularity"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:HyperIngot3"
+      },
+      {
+        "value": "CUSTOM:HyperNetherStar"
+      },
+      {
+        "value": "CUSTOM:UltimateCatalyst"
+      }
+    ]
+  }
+}

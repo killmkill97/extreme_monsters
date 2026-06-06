@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:infinite_lava_amulet"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:infinite_lava_source",
+    "count": 1
+  }
+}

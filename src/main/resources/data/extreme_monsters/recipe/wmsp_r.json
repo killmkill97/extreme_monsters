@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_solar_panel"
+    },
+    "c": {
+      "item": "extreme_monsters:nether_star_block"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:wither_matter_solar_panel",
+    "count": 1
+  }
+}

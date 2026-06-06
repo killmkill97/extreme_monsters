@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:dark_matter_boiler_casing",
+    "extreme_monsters:dark_fluid_input_block",
+    "extreme_monsters:dark_item_output_block"
+  ]
+}

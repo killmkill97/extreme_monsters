@@ -1,0 +1,25 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "molecular_dissolve",
+    "result": {
+      "value": "CUSTOM:MolecularSolvent.bucket"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:SuperMagma"
+      },
+      {
+        "value": "CUSTOM:StarsSoul"
+      },
+      {
+        "value": "CUSTOM:TungstenCrystalMatrixIngot"
+      },
+      {
+        "value": "CUSTOM:SuperMatterCatalyst"
+      }
+    ]
+  }
+}

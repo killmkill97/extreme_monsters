@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter_ingot_block"
+    },
+    "c": {
+      "item": "extreme_monsters:wither_machine_frame"
+    },
+    "d": {
+      "item": "extreme_monsters:wither_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:microverse_casing",
+    "count": 4
+  }
+}

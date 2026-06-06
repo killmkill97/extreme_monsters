@@ -1,0 +1,18 @@
+{
+  "type": "extreme_monsters:incubate",
+  "ingredients": [
+    {
+      "item": "minecraft:dragon_egg"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "extreme_monsters:dragon_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:ender_dragon_in_the_bottle",
+    "count": 1
+  }
+}

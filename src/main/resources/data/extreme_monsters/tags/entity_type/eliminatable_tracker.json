@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "extreme_monsters:flying_tracker",
+    "extreme_monsters:tracker",
+    "extreme_monsters:weak_flying_tracker",
+    "extreme_monsters:weak_tracker"
+  ]
+}

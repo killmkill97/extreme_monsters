@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "extreme_monsters:block/zio_inserter_top",
+    "up": "extreme_monsters:block/zio_inserter_bottom",
+    "north": "extreme_monsters:block/zio_inputter_front",
+    "east": "extreme_monsters:block/zio_inserter_side_1",
+    "south": "extreme_monsters:block/dark_matter_ingot_block",
+    "west": "extreme_monsters:block/zio_inserter_side_2",
+    "particle": "extreme_monsters:block/zio_inserter_top"
+  },
+  "render_type": "solid"
+}

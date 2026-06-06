@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    " gh"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:reinforced_redstone_block"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "c": {
+      "item": "extreme_monsters:singularity"
+    },
+    "d": {
+      "item": "extreme_monsters:black_hole_matter_laser_emitter"
+    },
+    "e": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "f": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "g": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "h": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:inferno_rail_gun",
+    "count": 1
+  }
+}

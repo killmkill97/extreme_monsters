@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "advanced_dark_matter_generate_jei.png",
+    "width": 142,
+    "height": 88,
+    "icon": {
+      "value": "CUSTOM:DarkMatterGeneratorMk4"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk4"
+      },
+      {
+        "value": "CUSTOM:DarkMatterGeneratorMk5"
+      }
+    ],
+    "enableCraftingtable": true,
+    "title": "Advanced DM Generate",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 16,
+        "y": 16,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 16,
+        "y": 34,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 16,
+        "y": 52,
+        "slotid": 2
+      },
+      {
+        "type": "OUTPUT",
+        "x": 106,
+        "y": 34,
+        "slotid": 0
+      }
+    ]
+  }
+}

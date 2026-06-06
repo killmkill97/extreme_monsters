@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:dark_matter_block"
+    },
+    "b": {
+      "item": "extreme_monsters:nether_pass"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_enssence_1"
+    },
+    "d": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:end_pass"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:combined_pass",
+    "count": 1
+  }
+}

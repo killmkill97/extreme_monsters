@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:black_hole_matter_glass"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    },
+    "c": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter"
+    },
+    "e": {
+      "item": "extreme_monsters:tracker_core"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:tracker_incubator",
+    "count": 1
+  }
+}

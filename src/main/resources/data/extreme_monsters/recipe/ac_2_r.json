@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:mixed_hyper_essence"
+    },
+    "b": {
+      "item": "extreme_monsters:eternal_dark_matter_apple"
+    },
+    "c": {
+      "item": "extreme_monsters:inferno_matter_apple"
+    },
+    "d": {
+      "item": "extreme_monsters:apple_cultivator_mk_1"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    },
+    "f": {
+      "item": "extreme_monsters:tungsten_crystal_matrix_ingot"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:apple_cultivator_mk_2",
+    "count": 1
+  }
+}

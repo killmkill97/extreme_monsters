@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:soul_insert_jei",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:hyper_zombified_piglins_soul",
+    "count": 1
+  }
+}

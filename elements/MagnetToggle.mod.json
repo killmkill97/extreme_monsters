@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Magnet Toggle",
+    "keyBindingCategoryKey": "extreme_monsters",
+    "onKeyPressed": {
+      "name": "MagnetToggling"
+    }
+  }
+}

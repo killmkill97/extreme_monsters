@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PISTON"
+      },
+      {
+        "value": "CUSTOM:BlackHoleMatterBlock2x"
+      },
+      {
+        "value": "Blocks.PISTON"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:CleverMachineFrame"
+      },
+      {
+        "value": "CUSTOM:InfernoMatter"
+      },
+      {
+        "value": "CUSTOM:DuplicatedBedrock"
+      },
+      {
+        "value": "CUSTOM:DuplicatedBedrock"
+      },
+      {
+        "value": "CUSTOM:DuplicatedBedrock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MatterCatalystCompressor1"
+    },
+    "name": "mcc_1_r",
+    "namespace": "mod"
+  }
+}

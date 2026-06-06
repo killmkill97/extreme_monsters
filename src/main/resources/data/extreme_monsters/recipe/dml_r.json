@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "e e"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst_ingot"
+    },
+    "b": {
+      "item": "extreme_monsters:dragon_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_ender_pearl"
+    },
+    "d": {
+      "item": "extreme_monsters:inferno_matter_armor_leggings"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_stone"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dragon_matter_armor_leggings",
+    "count": 1
+  }
+}

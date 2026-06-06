@@ -1,0 +1,12 @@
+{
+  "type": "extreme_monsters:duplicate",
+  "ingredients": [
+    {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  ],
+  "output": {
+    "id": "extreme_monsters:duplicated_inferno_matter",
+    "count": 1
+  }
+}

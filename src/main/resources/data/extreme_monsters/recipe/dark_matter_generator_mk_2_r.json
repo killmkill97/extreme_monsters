@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:matter_catalyst"
+    },
+    "b": {
+      "item": "extreme_monsters:dark_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:black_matter_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_generator"
+    },
+    "e": {
+      "item": "extreme_monsters:hyper_rotten_flesh"
+    },
+    "f": {
+      "item": "extreme_monsters:advanced_machine_frame"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_generator_mk_2",
+    "count": 1
+  }
+}

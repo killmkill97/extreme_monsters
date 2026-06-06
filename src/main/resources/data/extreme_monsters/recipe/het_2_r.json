@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:hyper_gold_nugget"
+    },
+    "b": {
+      "item": "extreme_monsters:hyper_magma_cream"
+    },
+    "c": {
+      "item": "extreme_monsters:hyper_withered_bone"
+    },
+    "d": {
+      "item": "extreme_monsters:hyper_blaze_rod"
+    },
+    "e": {
+      "item": "extreme_monsters:inferno_matter"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:hyper_enssence_2",
+    "count": 1
+  }
+}

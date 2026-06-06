@@ -1,0 +1,6 @@
+{
+  "parent": "extreme_monsters:displaysettings/fictional_planet_display",
+  "textures": {
+    "particle": "extreme_monsters:block/mine_travelling_block"
+  }
+}

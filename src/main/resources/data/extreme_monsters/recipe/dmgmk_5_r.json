@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "extreme_monsters:clever_machine_frame"
+    },
+    "b": {
+      "item": "extreme_monsters:wither_matter"
+    },
+    "c": {
+      "item": "extreme_monsters:dark_matter_crystal_matrix_ingot"
+    },
+    "d": {
+      "item": "extreme_monsters:dark_matter_generator_mk_4"
+    }
+  },
+  "result": {
+    "id": "extreme_monsters:dark_matter_generator_mk_5",
+    "count": 1
+  }
+}
